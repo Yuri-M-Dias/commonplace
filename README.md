@@ -1,2 +1,13 @@
-# quotes
-The quotes that i generally find inspiring. Albeit this is a repository just to remind me to use github, though.
+# random-quotes
+The quotes that i generally find inspiring. Albeit this is a repository just to remind me to use github, though. The quotes are from anything, anywhere, they are just thoughtful or mean something. The format is a list: **"quote"**, Author(character), Where(source), (Author, if a book or something). If the first Author is a character in something, the real author is to be added after the where. I'll probably mix some languages in this.
+
+#Quotes
+
+- **"Entire civilizations were built and destroyed between now and the last time you said "we'll go soon"! I'll have rotted and turned to ash by the time this "soon" of yours comes!!"**, Aisaka Taiga, Toradora
+- **"My happiness can only be... can only be made with my own hands! My happiness doesn't depend on anyone but me!"**, Kushieda Minori, Toradora
+- **"'According to Chekhov,' Tamaru said, rising from his chair, 'once a gun appears in a story, it has to be fired.'"**, Tengo Kawana, 1Q84, Haruki Murakami
+- **“Both hope and despair are self-fulfilling prophecies.”**, ....a blog post, forgot the source.
+- **“If you can't understand it without an explanation, you can't understand it with an explanation.”**, Tengo's Father, 1Q84, Haruki Murakami
+- **“It's just that you're about to do something out of the ordinary. And after you do something like that, the everyday look of things might seem to change a little. Things may look different to you than they did before. But don't let appearances fool you. There's always only one reality.”**, The Leader, 1Q84, Haruki Murakami
+- **“A person's last moments are an important thing. You can't choose how you're born but you can choose how you die.”**, The Leader, 1Q84, Haruki Murakami
+- **“It seemed to me that this world has a serious shortage of both logic and kindness.”**, (either by Tengo or Aomame), 1Q84, Haruki Murakami

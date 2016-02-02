@@ -11,3 +11,5 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **“It's just that you're about to do something out of the ordinary. And after you do something like that, the everyday look of things might seem to change a little. Things may look different to you than they did before. But don't let appearances fool you. There's always only one reality.”**, The Leader, 1Q84, Haruki Murakami
 - **“A person's last moments are an important thing. You can't choose how you're born but you can choose how you die.”**, The Leader, 1Q84, Haruki Murakami
 - **“It seemed to me that this world has a serious shortage of both logic and kindness.”**, (either by Tengo or Aomame), 1Q84, Haruki Murakami
+- **"Achieve your mission with all your might. Despair not till your last breath. Make your death count."**, Part of the creed of the Valkyries, Muv Luv: Alternative, Âge
+- **"The Hero Club Five Tenants!  Give people a good greeting! Try not to give up! Sleep well, eat well! If you’re troubled, talk to someone! And last, you’re likely to succeed if you try!"**, Yuuki Yuuna, Yuuki Yuuna wa Yuusha de Aru

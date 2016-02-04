@@ -19,5 +19,5 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"To succeed, planning alone is insufficient. One must improvise as well."**, Salvor Hardin, Foundation, Isaac Asimov
 
 ##Português
--**"Algo errado não está certo."**; Metaleiro, Jesus Playboy; 2016
--**"Se você não se interessa, o que acontece é culpa sua."**, Daisy Peshkov, Modernidade em Cheque?
+- **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016
+- **"Se você não se interessa, o que acontece é culpa sua."**, Daisy Peshkov, Modernidade em Cheque?

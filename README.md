@@ -3,6 +3,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 
 #Quotes
 
+##English
 - **"Entire civilizations were built and destroyed between now and the last time you said "we'll go soon"! I'll have rotted and turned to ash by the time this "soon" of yours comes!!"**, Aisaka Taiga, Toradora
 - **"My happiness can only be... can only be made with my own hands! My happiness doesn't depend on anyone but me!"**, Kushieda Minori, Toradora
 - **"'According to Chekhov,' Tamaru said, rising from his chair, 'once a gun appears in a story, it has to be fired.'"**, Tengo Kawana, 1Q84, Haruki Murakami
@@ -16,3 +17,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Violence is the last refuge of the incompetent."**, Salvor Hardin, Foundatin, Isaac Asimov
 - **"It's a poor atom blaster that doesn't point both ways."**, Salvor Hardin/Hober Mallow, Foundation, Isaac Asimov
 - **"To succeed, planning alone is insufficient. One must improvise as well."**, Salvor Hardin, Foundation, Isaac Asimov
+
+##Português
+-**"Algo errado não está certo."**; Metaleiro, Jesus Playboy; 2016
+-**"Se você não se interessa, o que acontece é culpa sua."**, Daisy Peshkov, Modernidade em Cheque?

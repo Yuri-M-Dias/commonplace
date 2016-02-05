@@ -17,6 +17,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Violence is the last refuge of the incompetent."**, Salvor Hardin, Foundatin, Isaac Asimov
 - **"It's a poor atom blaster that doesn't point both ways."**, Salvor Hardin/Hober Mallow, Foundation, Isaac Asimov
 - **"To succeed, planning alone is insufficient. One must improvise as well."**, Salvor Hardin, Foundation, Isaac Asimov
+- **"If you can give up, then it wasn't really your dream."**, Nanba Hibito, Uchuu Kyoudai(Space Brothers)
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

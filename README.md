@@ -15,7 +15,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Achieve your mission with all your might. Despair not till your last breath. Make your death count."**, Part of the creed of the Valkyries, Muv Luv: Alternative, Âge
 - **"The Hero Club Five Tenants!  Give people a good greeting! Try not to give up! Sleep well, eat well! If you’re troubled, talk to someone! And last, you’re likely to succeed if you try!"**, Yuuki Yuuna, Yuuki Yuuna wa Yuusha de Aru
 - **"Violence is the last refuge of the incompetent."**, Salvor Hardin, Foundatin, Isaac Asimov
-- **"It's a poor atom blaster that doesn't point both ways."**, Salvor Hardin/Hober Mallow, Foundation, Isaac Asimov
+- **"It's a poor atom blaster that *doesn't* point both ways."**, Salvor Hardin/Hober Mallow, Foundation, Isaac Asimov
 - **"To succeed, planning alone is insufficient. One must improvise as well."**, Salvor Hardin, Foundation, Isaac Asimov
 - **"If you can give up, then it wasn't really your dream."**, Nanba Hibito, Uchuu Kyoudai(Space Brothers)
 

@@ -22,6 +22,9 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Whenever you find yourself on the side of the majority, it is time to pause and reflect."**, Mark Twain
 - **"Do what you feel in your heart to be right, for you’ll be criticized anyway."**, Eleanor Roosevelt
 - **"Now I am become Death, the destroyer of worlds."**, J. Robert Oppenheimer
+- **"If you really want to know what's happening here and now, you've got to use your own eyes and your own judgment."**, Aomame, 1Q84, Haruki Murakami
+- **"Flesh that does not exist will never die, and promises unmade are never broken."**, Aomame, 1Q84, Haruki Murakami
+- **"I move,therefore I am."**, Aomame, 1Q84, Haruki Murakami
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

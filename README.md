@@ -21,6 +21,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"I must prove that I can be, that I am and will be, a normal person. Perhaps no better, but certainly no worse than the rest."**, Henri Charrière, Papillon(as himself)
 - **"Whenever you find yourself on the side of the majority, it is time to pause and reflect."**, Mark Twain
 - **"Do what you feel in your heart to be right, for you’ll be criticized anyway."**, Eleanor Roosevelt
+- **"Now I am become Death, the destroyer of worlds."**, J. Robert Oppenheimer
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

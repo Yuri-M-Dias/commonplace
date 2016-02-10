@@ -26,7 +26,15 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Flesh that does not exist will never die, and promises unmade are never broken."**, Aomame, 1Q84, Haruki Murakami
 - **"I move, therefore I am."**, Aomame, 1Q84, Haruki Murakami
 - **"Violence does not always take physical form, and not all wounds gush blood."**, The Dowager, 1Q84, Haruki Murakami
+- **"To the man with only a hammer, everything is a nail."**, Old Saying
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016
 - **"Se você não se interessa, o que acontece é culpa sua."**, Daisy Peshkov, Inverno no Mundo, Ken Follett
+
+
+##Laws
+This section is kinda random, with phsysical laws that can be useful to remember and use in the day to day life:
+- **Gödel's Incompleteness Theorems**. Any logical model of reality is incomplete (and possibly inconsistent) and must be continuously refined/adapted in the face of new observations. 
+- **Heisenberg's Uncertainty Principle.** In a nutshell, this principle shows that we cannot simultaneously fix or determine the velocity and position of a particle or body. We can measure coordinates or movements of those particles, but not both. As we get a more and more precise measure of one value (velocity or positions), our measurement of the other value becomes more and more uncertain. The uncertainty of one variable is created simply by the act of observation.
+- **2nd Law of Thermodynamics.** Individuals or organizations that don’t communicate with the outside world by getting new information about the environment or by creating new mental models act like a "closed system". And just as a closed system in nature will have increasing entropy, or disorder, so too will a person or organization experience mental entropy or disorder if they’re cut off from the outside world and new information.

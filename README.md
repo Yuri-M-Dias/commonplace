@@ -27,6 +27,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"I move, therefore I am."**, Aomame, 1Q84, Haruki Murakami
 - **"Violence does not always take physical form, and not all wounds gush blood."**, The Dowager, 1Q84, Haruki Murakami
 - **"To the man with only a hammer, everything is a nail."**, Old Saying
+- **"Your goal is to stick the pointy end of the sword into the other man; any fancy techniques, motions, or theories that distract from that simple goal are useless."**, Myamoto Musashi, Book of the Five Rings
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

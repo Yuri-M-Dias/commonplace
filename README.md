@@ -28,6 +28,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Violence does not always take physical form, and not all wounds gush blood."**, The Dowager, 1Q84, Haruki Murakami
 - **"To the man with only a hammer, everything is a nail."**, Old Saying
 - **"Your goal is to stick the pointy end of the sword into the other man; any fancy techniques, motions, or theories that distract from that simple goal are useless."**, Miyamoto Musashi, Book of the Five Rings
+- **"There is no merit to discipline under ideal circumstances. I must have it in the face of death or it is worthless."**, Isaac Asimov
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

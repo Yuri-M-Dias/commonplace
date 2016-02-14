@@ -34,6 +34,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016
 - **"Se você não se interessa, o que acontece é culpa sua."**, Daisy Peshkov, Inverno no Mundo, Ken Follett
+- **Você ensina elas a pular do penhasco, mas no final é você quem tem que empurrar...**; LISPECTOR, Natália
 
 
 ##Laws

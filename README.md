@@ -30,12 +30,12 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Your goal is to stick the pointy end of the sword into the other man; any fancy techniques, motions, or theories that distract from that simple goal are useless."**, Miyamoto Musashi, Book of the Five Rings
 - **"There is no merit to discipline under ideal circumstances. I must have it in the face of death or it is worthless."**, Isaac Asimov´
 - **"When people thought the Earth was flat, they were wrong. When people thought the Earth was spherical, they were wrong. But if you think that thinking the Earth is spherical is just as wrong as thinking the Earth is flat, then your view is wronger than both of them put together."**, Isaac Asimov
-- **Remove everything that has no relevance to the story. If you say in the first chapter that there is a rifle hanging on the wall, in the second or third chapter it absolutely must go off. If it's not going to be fired, it shouldn't be hanging there.**, Anton Chekhov
+- **"Remove everything that has no relevance to the story. If you say in the first chapter that there is a rifle hanging on the wall, in the second or third chapter it absolutely must go off. If it's not going to be fired, it shouldn't be hanging there."**, Anton Chekhov
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016
 - **"Se você não se interessa, o que acontece é culpa sua."**, Daisy Peshkov, Inverno no Mundo, Ken Follett
-- **Você ensina elas a pular do penhasco, mas no final é você quem tem que empurrar...**; LISPECTOR, Natália
+- **"Você ensina elas a pular do penhasco, mas no final é você quem tem que empurrar..."**; LISPECTOR, Natália
 
 
 ##Laws

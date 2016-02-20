@@ -33,6 +33,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Remove everything that has no relevance to the story. If you say in the first chapter that there is a rifle hanging on the wall, in the second or third chapter it absolutely must go off. If it's not going to be fired, it shouldn't be hanging there."**, Anton Chekhov
 - **"Any physical theory is always provisional, in the sense that it is only a hypothesis: you can never prove it. No matter how many times the results of experiments agree with some theory, you can never be sure that the next time the result will not contradict the theory. On the other hand, you can disprove a theory by finding even a single observation that disagrees with the predictions of the theory. As philosopher of science Karl Popper has emphasized, a good theory is characterized by the fact that it makes a number of predictions that could in principle be disproved or falsified by observation. Each time new experiments are observed to agree with the predictions the theory survives, and our confidence in it is increased; but if ever a new observation is found to disagree, we have to abandon or modify the theory."**, Stephen Hawking, A Brief History of Time
 - **"Today's problems courtesy of yesterday's solutions."**, IBM Presentation on Java Bridge
+- **"Better to remain silent and be thought a fool than to speak and to remove all doubt."**, Maurice Switzer
 
 
 ##Português

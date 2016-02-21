@@ -35,6 +35,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Today's problems courtesy of yesterday's solutions."**, IBM Presentation on Java Bridge
 - **"Better to remain silent and be thought a fool than to speak and to remove all doubt."**, Maurice Switzer
 - **"Each murder has to be answered with another murder, until we are out of people who can die!"**, John Green on Shakespeare's Hamlet
+- **"Ultimately, Hamlet is a great play for it's aphorisms, and it's language, and it's ambiguity, but also because it brilliantly captures the fact that we do not know what we are doing."**, John Green on Hamlet again
 
 
 ##Português

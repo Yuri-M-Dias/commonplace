@@ -37,6 +37,10 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Each murder has to be answered with another murder, until we are out of people who can die!"**, John Green on Shakespeare's Hamlet
 - **"Ultimately, Hamlet is a great play for it's aphorisms, and it's language, and it's ambiguity, but also because it brilliantly captures the fact that we do not know what we are doing."**, John Green on Hamlet again
 - **"The man who moves a mountain begins by carrying away small stones."**, Confucius
+- **"There are no passengers on spaceship earth. We are all crew."**, Marshall Mcluhan
+- **"Sometimes the questions are complicated and the answers are simple."**, Dr. Seuss
+- **"The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom."**, Isaac Asimov
+- **"...Scientists are too concerned with whether they can, they don’t stop to ask if they should."**, Jeff Goldblum in Jurassic Park
 
 
 ##Português

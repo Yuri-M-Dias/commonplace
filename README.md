@@ -41,6 +41,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Sometimes the questions are complicated and the answers are simple."**, Dr. Seuss
 - **"The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom."**, Isaac Asimov
 - **"...Scientists are too concerned with whether they can, they don’t stop to ask if they should."**, Jeff Goldblum in Jurassic Park
+- **"And similarly, inequality hides behind numbers. The numbers somehow allow so many of us to forget that there are people trying to live behind them. When I say one out of five American children lives in poverty, that probably means nothing to you. If I presented you with five children and pointed to the one who is poor, you might shrug. If I told you his name and asked him to tell you about his favorite teacher, maybe you’d listen. If he tells you he struggles to fall asleep at night because he’s so hungry, I hope you’d start feeling uncomfortable. If I show you the cockroaches that crawl off the walls into his bed at night, I’m making one out of five very fucking real for you."**, [Holly Wood](https://medium.com/@girlziplocked) on Talia Jane's letter
 
 
 ##Português

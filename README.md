@@ -52,6 +52,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Se você não se interessa, o que acontece é culpa sua."**, Daisy Peshkov, Inverno no Mundo, Ken Follett
 - **"Você ensina elas a pular do penhasco, mas no final é você quem tem que empurrar..."**; LISPECTOR, Natália
 - **"Cuidado com os desafios. Escalar uma montanha é um desafio tremendo, pode até te trazer um sentimento de satisfação ao cumprir o objetivo, mas somente os primeiros que chegaram lá serão lembrados. Os outros, trabalharam a toa."** Vitor Pamplona
+- **"Posso namorar quem quer que seja, a Megan Fox ainda será gostosa."**, Severino[Rafael]
 
 ##Laws
 This section is kinda random, with phsysical laws that can be useful to remember and use in the day to day life:

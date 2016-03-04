@@ -45,6 +45,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Yeah, that's what the present is. It's a little unsatisfying because life's a little unsatisfying."**, Gil, Midnight in Paris
 - **"The artist's job is not to succumb to despair but to find an antidote for the emptiness of existence."**, Gertrude Stein, Midnight in Paris
 - **"You'll never write well if you fear dying."**, Ernest Hemingway in Midnight in Paris
+- **"Who needs talent when you have intensity?"**, Jeff Atwood quoting Jack Black's Tenacious D.
 
 
 ##Português

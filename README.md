@@ -46,6 +46,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"The artist's job is not to succumb to despair but to find an antidote for the emptiness of existence."**, Gertrude Stein, Midnight in Paris
 - **"You'll never write well if you fear dying."**, Ernest Hemingway in Midnight in Paris
 - **"Who needs talent when you have intensity?"**, Jeff Atwood quoting Jack Black's Tenacious D.
+- **"Life sucks and then you die."**, good friend Lucas quoting some old movie that I can't possibly remember now.
 
 
 ##Português

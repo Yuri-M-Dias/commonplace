@@ -47,6 +47,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"You'll never write well if you fear dying."**, Ernest Hemingway in Midnight in Paris
 - **"Who needs talent when you have intensity?"**, Jeff Atwood quoting Jack Black's Tenacious D.
 - **"Life sucks and then you die."**, good friend Lucas quoting some old movie that I can't possibly remember now.
+- **"If people aren't laughing at your dreams, your dreams aren't big enough."**, Grayson Marshall
 
 
 ##Português

@@ -48,6 +48,9 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Who needs talent when you have intensity?"**, Jeff Atwood quoting Jack Black's Tenacious D.
 - **"Life sucks and then you die."**, good friend Lucas quoting some old movie that I can't possibly remember now.
 - **"If people aren't laughing at your dreams, your dreams aren't big enough."**, Grayson Marshall
+- **"Freethinkers are those who are willing to use their minds without prejudice and without fearing to understand things that clash with their own customs, privileges, or beliefs. This state of mind is not common, but it is essential for right thinking..."**, Leo Tolstoy
+- **"Everyone thinks of changing the world, but no one thinks of changing himself."**, Leo Tolstoy
+- **"If, then, I were asked for the most important advice I could give, that which I considered to be the most useful to the men of our century, I should simply say: in the name of God, stop a moment, cease your work, look around you."**, Leo Tolstoy
 
 
 ##Português

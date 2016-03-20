@@ -51,6 +51,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Freethinkers are those who are willing to use their minds without prejudice and without fearing to understand things that clash with their own customs, privileges, or beliefs. This state of mind is not common, but it is essential for right thinking..."**, Leo Tolstoy
 - **"Everyone thinks of changing the world, but no one thinks of changing himself."**, Leo Tolstoy
 - **"If, then, I were asked for the most important advice I could give, that which I considered to be the most useful to the men of our century, I should simply say: in the name of God, stop a moment, cease your work, look around you."**, Leo Tolstoy
+- **People who don’t love you don’t care about you or your day or your life that much, they’re probably not especially rooting for you, and they certainly want nothing to do with your worst qualities. And you doing something purely to serve your emotional or egotistical needs really should not show up on their computer screen—it just shouldn’t.**, Tim Urban, Wait But Why
 
 
 ##Português

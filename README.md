@@ -55,6 +55,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"The miscalibration of the incompetent stems from an error about the self, whereas the miscalibration of the highly competent stems from an error about others."**, Dunning-Kruger effect, from Wikipedia
 - **"Duck typing doesn’t care what the underlying type might be. If it walks like a duck and quacks like a duck, it’s a duck."**, Seven Languages in Seven Weeks
 - **"... he thought being certain of something causes you to close your mind, and that's not what we want. Always remaining open to the idea that your current beliefs might be wrong is the best way to get ever closer to the truth."**, Crash Course on Karl Popper
+- **"Unlimited tolerance must lead to the disappearance of tolerance. If we extend unlimited tolerance even to those who are intolerant, if we are not prepared to defend a tolerant society against the onslaught of the intolerant, then the tolerant will be destroyed, and tolerance with them."**, Karl Popper on the Paradox of Tolerance
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

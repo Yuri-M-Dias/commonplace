@@ -54,7 +54,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **People who don’t love you don’t care about you or your day or your life that much, they’re probably not especially rooting for you, and they certainly want nothing to do with your worst qualities. And you doing something purely to serve your emotional or egotistical needs really should not show up on their computer screen—it just shouldn’t.**, Tim Urban, Wait But Why
 - **"The miscalibration of the incompetent stems from an error about the self, whereas the miscalibration of the highly competent stems from an error about others."**, Dunning-Kruger effect, from Wikipedia
 - **"Duck typing doesn’t care what the underlying type might be. If it walks like a duck and quacks like a duck, it’s a duck."**, Seven Languages in Seven Weeks
-
+- **"... he thought being certain of something causes you to close your mind, and that's not what we want. Always remaining open to the idea that your current beliefs might be wrong is the best way to get ever closer to the truth."**, Crash Course on Karl Popper
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

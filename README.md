@@ -58,6 +58,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Unlimited tolerance must lead to the disappearance of tolerance. If we extend unlimited tolerance even to those who are intolerant, if we are not prepared to defend a tolerant society against the onslaught of the intolerant, then the tolerant will be destroyed, and tolerance with them."**, Karl Popper on the Paradox of Tolerance
 - **"Whenever a theory appears to you as the only possible one, take this as a sign that you have neither understood the theory nor the problem which it was intended to solve."**, Karl Popper
 - **"Leadership is solving problems. The day soldiers stop bringing you their problems is the day you have stopped leading them. They have either lost confidence that you can help or concluded you do not care. Either case is a failure of leadership."**, Colin Powell in My American Journey (1995)
+- **"The world is moving so fast that the man who says it can't be done is generally interrupted by someone doing it."**, Elbert Hubbard
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

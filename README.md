@@ -60,6 +60,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Leadership is solving problems. The day soldiers stop bringing you their problems is the day you have stopped leading them. They have either lost confidence that you can help or concluded you do not care. Either case is a failure of leadership."**, Colin Powell in My American Journey (1995)
 - **"The world is moving so fast that the man who says it can't be done is generally interrupted by someone doing it."**, Elbert Hubbard
 - **"When you look back at yourself six months from today and don’t feel embarrassed by your naiveté, there’s a problem. That means you’re not learning, growing."**, Ryan Hoover
+- **"The master has failed more times than the beginner has even tried."**, Stephen McCranie
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

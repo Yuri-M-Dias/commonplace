@@ -61,6 +61,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"The world is moving so fast that the man who says it can't be done is generally interrupted by someone doing it."**, Elbert Hubbard
 - **"When you look back at yourself six months from today and don’t feel embarrassed by your naiveté, there’s a problem. That means you’re not learning, growing."**, Ryan Hoover
 - **"The master has failed more times than the beginner has even tried."**, Stephen McCranie
+- **"Success is not final, failure is not fatal: it is the courage to continue that counts."**, Winston Churchill
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

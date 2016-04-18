@@ -62,6 +62,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"When you look back at yourself six months from today and don’t feel embarrassed by your naiveté, there’s a problem. That means you’re not learning, growing."**, Ryan Hoover
 - **"The master has failed more times than the beginner has even tried."**, Stephen McCranie
 - **"Success is not final, failure is not fatal: it is the courage to continue that counts."**, Winston Churchill
+- **"Reality is an illusion! The universe is a hologram! Buy gold, bye!"**, Bill Cipher, Gravity Falls
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

@@ -63,6 +63,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"The master has failed more times than the beginner has even tried."**, Stephen McCranie
 - **"Success is not final, failure is not fatal: it is the courage to continue that counts."**, Winston Churchill
 - **"Reality is an illusion! The universe is a hologram! Buy gold, bye!"**, Bill Cipher, Gravity Falls
+- **"Hegel was right when he said that we learn from history that man can never learn anything from history."**, George Bernard Shaw
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

@@ -64,12 +64,14 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Success is not final, failure is not fatal: it is the courage to continue that counts."**, Winston Churchill
 - **"Reality is an illusion! The universe is a hologram! Buy gold, bye!"**, Bill Cipher, Gravity Falls
 - **"Hegel was right when he said that we learn from history that man can never learn anything from history."**, George Bernard Shaw
+- 
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016
 - **"Se você não se interessa, o que acontece é culpa sua."**, Daisy Peshkov, Inverno no Mundo, Ken Follett
 - **"Você ensina elas a pular do penhasco, mas no final é você quem tem que empurrar..."**; LISPECTOR, Natália
 - **"Cuidado com os desafios. Escalar uma montanha é um desafio tremendo, pode até te trazer um sentimento de satisfação ao cumprir o objetivo, mas somente os primeiros que chegaram lá serão lembrados. Os outros, trabalharam a toa."** Vitor Pamplona
+- **"MVP de um carro é só acelerar, freio é uma feature futura."**, Metaleiro, Jesus Playboy. 2016
 
 ##Laws
 This section is kinda random, with phsysical laws that can be useful to remember and use in the day to day life:

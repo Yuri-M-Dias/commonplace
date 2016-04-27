@@ -64,6 +64,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Success is not final, failure is not fatal: it is the courage to continue that counts."**, Winston Churchill
 - **"Reality is an illusion! The universe is a hologram! Buy gold, bye!"**, Bill Cipher, Gravity Falls
 - **"Hegel was right when he said that we learn from history that man can never learn anything from history."**, George Bernard Shaw
+- **"Set a timeline for your decision. You will not be able to escape hard work anywhere; if you choose to stay, then buckle up."**, N. Chaubé answer to a Academia.Exchange question.
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

@@ -65,6 +65,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Reality is an illusion! The universe is a hologram! Buy gold, bye!"**, Bill Cipher, Gravity Falls
 - **"Hegel was right when he said that we learn from history that man can never learn anything from history."**, George Bernard Shaw
 - **"Set a timeline for your decision. You will not be able to escape hard work anywhere; if you choose to stay, then buckle up."**, N. Chaubé answer to a Academia.Exchange question.
+- **"The weight of seeing through the fear and beyond the monster to simply discover yourself is often too terrible for many people to bear. In a world of hard things, it's the hardest there is."**, Jeff Atwood, Coding Horror
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

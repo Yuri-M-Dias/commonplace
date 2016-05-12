@@ -66,6 +66,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Hegel was right when he said that we learn from history that man can never learn anything from history."**, George Bernard Shaw
 - **"Set a timeline for your decision. You will not be able to escape hard work anywhere; if you choose to stay, then buckle up."**, N. Chaubé answer to a Academia.Exchange question.
 - **"The weight of seeing through the fear and beyond the monster to simply discover yourself is often too terrible for many people to bear. In a world of hard things, it's the hardest there is."**, Jeff Atwood, Coding Horror
+- **"Any headline that ends in a question mark can be answered by the word no."**, Betteridge's law of headlines
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

@@ -67,6 +67,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Set a timeline for your decision. You will not be able to escape hard work anywhere; if you choose to stay, then buckle up."**, N. Chaubé answer to a Academia.Exchange question.
 - **"The weight of seeing through the fear and beyond the monster to simply discover yourself is often too terrible for many people to bear. In a world of hard things, it's the hardest there is."**, Jeff Atwood, Coding Horror
 - **"Any headline that ends in a question mark can be answered by the word no."**, Betteridge's law of headlines
+- **"Writing appears more forgiving because there is no compiler or interpreter catching your its/it’s issues or reminding you of the rules regarding that or which. Here’s the rub: there is a compiler and it’s fucking brutal. It’s your readers. Your readers are far more critical than the Python interpreter. Not only do they care about syntax, but they also want to learn something, and, perhaps, be entertained while all this learning is going down. Success means they keep coming back – failure is a lonely silence. Python is looking pretty sweet now, right?"**, a guy that i can't find his name on the [blog](http://randsinrepose.com/archives/please-learn-to-write/)
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

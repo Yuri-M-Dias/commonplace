@@ -78,6 +78,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Você ensina elas a pular do penhasco, mas no final é você quem tem que empurrar..."**; LISPECTOR, Natália
 - **"Cuidado com os desafios. Escalar uma montanha é um desafio tremendo, pode até te trazer um sentimento de satisfação ao cumprir o objetivo, mas somente os primeiros que chegaram lá serão lembrados. Os outros, trabalharam a toa."** Vitor Pamplona
 - **"MVP de um carro é só acelerar, freio é uma feature futura."**, Metaleiro, Jesus Playboy. 2016
+- **""Na subida do Everest existem centenas de corpos de pessoas altamente motivadas.""**, [daqui](https://www.linkedin.com/pulse/na-subida-do-everest-existem-centenas-de-corpos-eden-wiedemann?trk=eml-b2_content_ecosystem_digest-recommended_articles-63-null&midToken=AQFSgoOm4botRw&fromEmail=fromEmail&ut=1DrfJsTrUiQDg1)
 
 ##Laws
 This section is kinda random, with phsysical laws that can be useful to remember and use in the day to day life:

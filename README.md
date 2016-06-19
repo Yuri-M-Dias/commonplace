@@ -71,6 +71,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"By induction, the only programmers in a position to see all the differences in power between the various languages are those who understand the most powerful one. (This is probably what Eric Raymond meant about Lisp making you a better programmer.) You can't trust the opinions of the others, because of the Blub paradox: they're satisfied with whatever language they happen to use, because it dictates the way they think about programs."**, [excellent paul graham](http://www.paulgraham.com/avg.html)
 - **"Most people quit because they look how far they have to go, not how far they have come."**, Anonymous, from Momentum Dash
 - **"If one only wished to be happy, this could be easily accomplished; but we wish to be happier than other people, and this is always difficult, for we believe others to be happier than they are."**, Charles de Montesquieu
+- **"A good decision now is better than a perfect decision in two days"**, James Waters
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

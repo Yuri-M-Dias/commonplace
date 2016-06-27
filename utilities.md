@@ -9,7 +9,7 @@
 		-keystore ./cas-server.jks \
 		-dname "CN=localhost,OU=localhost, O=localhost, L=localhost, ST=localhost, C=BR" \
 		-storepass changeit \
-		-ext san=ip:192.168.0.4,ip:127.0.0.1,ip:200.175.156.241 \
+		-ext san=ip:192.168.0.4,ip:127.0.0.1 \
 		-noprompt
 	sudo keytool \
 		-exportcert \

@@ -73,6 +73,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"If one only wished to be happy, this could be easily accomplished; but we wish to be happier than other people, and this is always difficult, for we believe others to be happier than they are."**, Charles de Montesquieu
 - **"A good decision now is better than a perfect decision in two days"**, James Waters
 - **"The curse of the monad is that once you get the epiphany, once you understand - "oh that's what it is" - you lose the ability to explain it to anybody."**, Douglas Crockford on Monads
+- **"Things that seem obvious kill us, if something sounds obvious, that’s where the danger is."**, [Thoughtworks article](https://www.thoughtworks.com/pt/insights/blog/specification-example)
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

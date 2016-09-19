@@ -74,6 +74,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"A good decision now is better than a perfect decision in two days"**, James Waters
 - **"The curse of the monad is that once you get the epiphany, once you understand - "oh that's what it is" - you lose the ability to explain it to anybody."**, Douglas Crockford on Monads
 - **"Things that seem obvious kill us, if something sounds obvious, that’s where the danger is."**, [Thoughtworks article](https://www.thoughtworks.com/pt/insights/blog/specification-example)
+- **"Sure, XWing jets can communicate fine with rebel headquarters during an attack in a completely different galaxy, but a simple vector map needs to be carried by hand on a USB stick."**, [Gojko Adzic](https://gojko.net/favourites/testing/agile/2016/05/24/large-test-suites.html)
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

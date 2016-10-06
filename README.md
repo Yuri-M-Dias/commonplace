@@ -75,6 +75,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"The curse of the monad is that once you get the epiphany, once you understand - "oh that's what it is" - you lose the ability to explain it to anybody."**, Douglas Crockford on Monads
 - **"Things that seem obvious kill us, if something sounds obvious, that’s where the danger is."**, [Thoughtworks article](https://www.thoughtworks.com/pt/insights/blog/specification-example)
 - **"Sure, XWing jets can communicate fine with rebel headquarters during an attack in a completely different galaxy, but a simple vector map needs to be carried by hand on a USB stick."**, [Gojko Adzic](https://gojko.net/favourites/testing/agile/2016/05/24/large-test-suites.html)
+- **"Never attribute to malice, that which is adequately explained by a lack of exhaustive search to the researcher."**, [Meiklejohn's Razor](https://christophermeiklejohn.com/lasp/2015/09/03/worst.html)
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

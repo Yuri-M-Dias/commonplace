@@ -77,6 +77,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Sure, XWing jets can communicate fine with rebel headquarters during an attack in a completely different galaxy, but a simple vector map needs to be carried by hand on a USB stick."**, [Gojko Adzic](https://gojko.net/favourites/testing/agile/2016/05/24/large-test-suites.html)
 - **"Never attribute to malice, that which is adequately explained by a lack of exhaustive search to the researcher."**, [Meiklejohn's Razor](https://christophermeiklejohn.com/lasp/2015/09/03/worst.html)
 - **"_I'm not going to think of anything superfluous,_ Ushikawa decided. _Be thick-skinned, have a hard shell around my heart, take one day at a time, go by the book. I'm just a machine. A capable, patient, unfeeling machine. A machine that draws in new time through one end, then spits out old time from the other end. It exists in order to exist._ He needed to revert back again to that pure, unsulliedcycle - that perpertual motion that would one day come to an end. [...] _Good. Can't ask for more. I'm a simple system again_, he told himself, _a simple system with complex details_."**, Ushikawa, 1Q84, Haruki Murakami.
+- **"I had nightmares I thought were really horrible until I woke up and remembered what reality was at the moment"**, Bora Horza Gobuchul, Consider Phlebas, Ian M. Banks
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

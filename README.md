@@ -83,6 +83,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"She'd strayed from the true way of things. First you set yourself to rights. And then your house. And then your corner of the sky. And after that... Well, then she didn't rightly know what happened next. But she hoped that after that the world would start to run itself a bit, like a gear-watch proper fit and kissed with oil. That was what she hoped would happen."**, Auri, The Slow Regard of Silent Things, Patrick Rothfuss
 - **"But for half a minute she wished it was a different sort of day, even though she knew that nothing good could come from wanting at the world."**, Auri, The Slow Regard of Silent Things, Patrick Rothfuss
 - **"When it really comes down to it, I’ve got no loyalty to any language or toolkit, or computer platform, if a language cannot make a case for itself, then I’m not going to use it."**, Garry Taylor, [from here](https://www.quora.com/Why-did-Garry-Taylor-leave-Python-language-after-12-years-of-productivity/answer/Garry-Taylor-5)
+- **"Knowing is not enough; we must apply. Willing is not enough; we must do."**, Johann Wolfgang von Goethe, another medium article that I don't remember
 
 ##Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

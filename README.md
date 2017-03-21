@@ -1,9 +1,9 @@
 # random-quotes
 The quotes that i generally find inspiring. Albeit this is a repository just to remind me to use github, though. The quotes are from anything, anywhere, they are just thoughtful or mean something. The format is a list: **"quote"**, Author(character), Where(source), (Author, if a book or something). If the first Author is a character in something, the real author is to be added after the where. I'll probably mix some languages in this.
 
-#Quotes
+# Quotes
 
-##English
+## English
 - **"Entire civilizations were built and destroyed between now and the last time you said "we'll go soon"! I'll have rotted and turned to ash by the time this "soon" of yours comes!!"**, Aisaka Taiga, Toradora
 - **"My happiness can only be... can only be made with my own hands! My happiness doesn't depend on anyone but me!"**, Kushieda Minori, Toradora
 - **"'According to Chekhov,' Tamaru said, rising from his chair, 'once a gun appears in a story, it has to be fired.'"**, Tengo Kawana, 1Q84, Haruki Murakami
@@ -85,7 +85,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"When it really comes down to it, I’ve got no loyalty to any language or toolkit, or computer platform, if a language cannot make a case for itself, then I’m not going to use it."**, Garry Taylor, [from here](https://www.quora.com/Why-did-Garry-Taylor-leave-Python-language-after-12-years-of-productivity/answer/Garry-Taylor-5)
 - **"Knowing is not enough; we must apply. Willing is not enough; we must do."**, Johann Wolfgang von Goethe, another medium article that I don't remember
 
-##Português
+## Português
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016
 - **"Se você não se interessa, o que acontece é culpa sua."**, Daisy Peshkov, Inverno no Mundo, Ken Follett
 - **"Você ensina elas a pular do penhasco, mas no final é você quem tem que empurrar..."**; LISPECTOR, Natália
@@ -95,7 +95,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Muitas vezes em nossa vida, é preciso de qualquer jeito, trazer um sorriso no rosto, com sete espadas no peito."**, Luzia Dias da Silva
 - **"O coração é meu, mas o semblante é do próximo. portanto, devo sorrir."**, Luzia Dias da Silva
 
-##Laws
+## Laws
 This section is kinda random, with phsysical laws that can be useful to remember and use in the day to day life:
 - **Gödel's Incompleteness Theorems**. Any logical model of reality is incomplete (and possibly inconsistent) and must be continuously refined/adapted in the face of new observations. 
 - **Heisenberg's Uncertainty Principle.** In a nutshell, this principle shows that we cannot simultaneously fix or determine the velocity and position of a particle or body. We can measure coordinates or movements of those particles, but not both. As we get a more and more precise measure of one value (velocity or positions), our measurement of the other value becomes more and more uncertain. The uncertainty of one variable is created simply by the act of observation.

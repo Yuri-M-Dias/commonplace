@@ -87,6 +87,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 -   **"When it really comes down to it, I’ve got no loyalty to any language or toolkit, or computer platform, if a language cannot make a case for itself, then I’m not going to use it."**, Garry Taylor, [from here](https://www.quora.com/Why-did-Garry-Taylor-leave-Python-language-after-12-years-of-productivity/answer/Garry-Taylor-5)
 -   **"Knowing is not enough; we must apply. Willing is not enough; we must do."**, Johann Wolfgang von Goethe, another medium article that I don't remember
 -   **"An earnest failure has meaning."**, Multiple Characters, Uchuu Kyoudai (Space Brothers)
+-   **"Everybody has a plan until I punch them in the face."**, Mike Tyson, [from here](https://www.linkedin.com/pulse/positive-psychology-lessons-from-olympic-medalist-navy-larsen-jensen)
 
 ## Português
 

@@ -89,6 +89,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 -   **"An earnest failure has meaning."**, Multiple Characters, Uchuu Kyoudai (Space Brothers)
 -   **"Everybody has a plan until I punch them in the face."**, Mike Tyson, [from here](https://www.linkedin.com/pulse/positive-psychology-lessons-from-olympic-medalist-navy-larsen-jensen)
 -   **"They expected me to be wonderful to offer me a job like this and I wasn't wonderful, and therefore I realized a new principle, which was that I'm not responsible for what other people think I am able to do; I don't have to be good because they think I'm going to be good. And somehow or other I could relax about this, and I thought to myself, I haven't done anything important and I'm never going to do anything important. But I used to enjoy physics and mathematical things and because I used to play with it. It was never very important but I used to do things for the fun of it, so I decided I'm going to do things only for the fun of it."**, Richard Feynman, The Pleasure of Finding Things Out Interview
+-   **"So, Lone Starr, now you see that evil will always triumph, because good is dumb."**, Spaceballs + Jeff Atwood, [from here](https://blog.codinghorror.com/designing-for-evil/)
 
 ## Português
 

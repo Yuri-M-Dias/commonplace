@@ -93,7 +93,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"It’s better to prepare for a future that you don’t have than to not prepare for a future you do have. And science is based on this reasoning: We don’t know why the universe is comprehensible and why the laws of nature are predictive. But we cannot do anything about unknown unknowns anyway, so we ignore them. And if we do that, we can benefit from our extrapolations."**, Hossenfelder, Sabine, [her blog](http://backreaction.blogspot.com.br/2017/06/dear-dr-b-what-are-chances-of-universe.html)
 - **"Punching people for their beliefs is what Nazis do, not us."**, Brad, Brad Ideas, [from here](http://ideas.4brad.com/free-speech-theory-explained)
 - **"The countless dragons that rained down were less significant threats than the humans in the sky."**, The Narrator, Hunter x Hunter
-- **"Meruem, King of Ants, you understand nothing...... of humanity's infinite potential for evolution/malice"**, Isaac Netero, Hunter x Hunter, [the best scene in the entire anime](http://vignette2.wikia.nocookie.net/hunterxhunter/images/3/3c/126_-_Netero_on_the_edge_of_death.png/revision/latest?cb=20140424050235)
+- **"Meruem, King of Ants, you understand nothing...... of humanity's infinite potential for evolution!"**, Isaac Netero, Hunter x Hunter, [the best scene in the entire anime](http://vignette2.wikia.nocookie.net/hunterxhunter/images/3/3c/126_-_Netero_on_the_edge_of_death.png/revision/latest?cb=20140424050235)
 
 ## Português
 

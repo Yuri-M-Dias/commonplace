@@ -94,7 +94,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Punching people for their beliefs is what Nazis do, not us."**, Brad, Brad Ideas, [from here](http://ideas.4brad.com/free-speech-theory-explained)
 - **"The countless dragons that rained down were less significant threats than the humans in the sky."**, The Narrator, Hunter x Hunter
 - **"Meruem, King of Ants, you understand nothing...... of humanity's infinite potential for evolution!"**, Isaac Netero, Hunter x Hunter, [the best scene in the entire anime](http://vignette2.wikia.nocookie.net/hunterxhunter/images/3/3c/126_-_Netero_on_the_edge_of_death.png/revision/latest?cb=20140424050235)
--   **"Auri was urching small. Her tiny feet upon the stone were bare. Auri stood, and in the circle of her golden hair she grinned and brought the weight of her desire down full upon the world. And all things shook. And all things knew her will. And all things bent to please her."**, Auri, The Slow Regard of Silent Things, Patrick Rothfuss
+-   **"Auri was urchin small. Her tiny feet upon the stone were bare. Auri stood, and in the circle of her golden hair she grinned and brought the weight of her desire down full upon the world. And all things shook. And all things knew her will. And all things bent to please her."**, Auri, The Slow Regard of Silent Things, Patrick Rothfuss
 
 ## Português
 

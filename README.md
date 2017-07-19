@@ -95,6 +95,10 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"The countless dragons that rained down were less significant threats than the humans in the sky."**, The Narrator, Hunter x Hunter
 - **"Meruem, King of Ants, you understand nothing...... of humanity's infinite potential for evolution!"**, Isaac Netero, Hunter x Hunter, [the best scene in the entire anime](http://vignette2.wikia.nocookie.net/hunterxhunter/images/3/3c/126_-_Netero_on_the_edge_of_death.png/revision/latest?cb=20140424050235)
 -   **"Auri was urchin small. Her tiny feet upon the stone were bare. Auri stood, and in the circle of her golden hair she grinned and brought the weight of her desire down full upon the world. And all things shook. And all things knew her will. And all things bent to please her."**, Auri, The Slow Regard of Silent Things, Patrick Rothfuss
+- **"It's really a wonder that I haven't dropped all my ideals, because they seem so absurd and impossible to carry out. Yet I keep them, because in spite of everything, I still believe that people are really good at heart."**, Anne Frank, Diary of a Young Girl
+- **"Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands."**, Anne Frank, Diary of a Young Girl
+- **"I don't want to have lived in vain like most people. I want to be useful or bring enjoyment to all people, even those I've never met. I want to go on living even after my death!"**, Anne Frank, Diary of a Young Girl
+- **"How noble and good everyone could be if, every evening before falling asleep, they were to recall to their minds the events of the while day and consider exactly what has been good and bad. Then, without realizing it you try to improve yourself at the start of each new day; of course, you achieve quite a lot in the course of time. Anyone can do this, it costs nothing and is certainly very helpful. Whoever doesn't know it must learn and find by experience that: 'A quiet conscience mades one strong!'"**, Anne Frank, Diary of a Young Girl
 
 ## Português
 

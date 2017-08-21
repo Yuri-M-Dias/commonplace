@@ -99,6 +99,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands."**, Anne Frank, Diary of a Young Girl
 - **"I don't want to have lived in vain like most people. I want to be useful or bring enjoyment to all people, even those I've never met. I want to go on living even after my death!"**, Anne Frank, Diary of a Young Girl
 - **"How noble and good everyone could be if, every evening before falling asleep, they were to recall to their minds the events of the while day and consider exactly what has been good and bad. Then, without realizing it you try to improve yourself at the start of each new day; of course, you achieve quite a lot in the course of time. Anyone can do this, it costs nothing and is certainly very helpful. Whoever doesn't know it must learn and find by experience that: 'A quiet conscience mades one strong!'"**, Anne Frank, Diary of a Young Girl
+- **"No amount of passion can overcome a lack of technical expertise."**, Fuyumi Irisu, Hyouka
 
 ## Português
 

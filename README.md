@@ -102,6 +102,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"No amount of passion can overcome a lack of technical expertise."**, Fuyumi Irisu, Hyouka
 - **"“Scaling traffic” doesn’t sound like how I’d phrase it if I were writing or speaking for myself, but if you’ve just described your need to me as scaling traffic, by golly I will tell you how great I am at scaling traffic."**, [this post](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 - **"Jerry, just remember...It's not a lie, if you believe it."**, apparently from Seinfield, [source](https://www.reddit.com/r/seinfeld/comments/x1sh5/one_of_my_favorite_lines_from_seinfeld_jerry_just/) (weak, I know.)
+- **"Some sweet code has been written by gun nuts, lechers, holocaust deniers and (in at least once case) someone who believes that fasting will cure cancer."**, [this guy](https://rusty.ozlabs.org/?p=196)
 
 ## Português
 

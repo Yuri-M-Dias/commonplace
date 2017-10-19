@@ -50,3 +50,17 @@
 		-keystore /usr/lib/jvm/java-8-oracle/jre/lib/security/cacerts \
 		-storepass changeit \
 		-alias cas
+		
+### Backup mongo-db with gzip
+	#/bin/bash
+
+	set -e
+
+	TIME=$(date +%F)
+
+	echo "Starting a new backup at $TIME"
+	mongodump -h 127.0.0.1:$MONGO_PORT -d $DATABASE --gzip \
+		 --archive="$BACKUPS_FOLDER/mongo-backup-$TIME.gzip"
+
+	echo "==End backup==\n"
+

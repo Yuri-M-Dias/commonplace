@@ -104,6 +104,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"Jerry, just remember...It's not a lie, if you believe it."**, apparently from Seinfield, [source](https://www.reddit.com/r/seinfeld/comments/x1sh5/one_of_my_favorite_lines_from_seinfeld_jerry_just/) (weak, I know.)
 - **"Some sweet code has been written by gun nuts, lechers, holocaust deniers and (in at least once case) someone who believes that fasting will cure cancer."**, [this guy](https://rusty.ozlabs.org/?p=196)
 - **"It has long been known that action consumes energy."**, Concluding Remarks, [this paper](http://fermatslibrary.com/s/self-control-relies-on-glucose-as-a-limited-energy-source-willpower-is-more-than-a-metaphor)
+- **"'No,' says Kosinski, quietly and shaking his head. 'This is not my fault. I did not build the bomb. I only showed that it exists.'"**, Michel Kosinski, [this terrifying article](https://motherboard.vice.com/en_us/article/mg9vvn/how-our-likes-helped-trump-win)
 
 ## Português
 

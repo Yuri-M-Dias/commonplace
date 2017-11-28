@@ -106,6 +106,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **"It has long been known that action consumes energy."**, Concluding Remarks, [this paper](http://fermatslibrary.com/s/self-control-relies-on-glucose-as-a-limited-energy-source-willpower-is-more-than-a-metaphor)
 - **"'No,' says Kosinski, quietly and shaking his head. 'This is not my fault. I did not build the bomb. I only showed that it exists.'"**, Michel Kosinski, [this terrifying article](https://motherboard.vice.com/en_us/article/mg9vvn/how-our-likes-helped-trump-win)
 - **"I don't demand that a theory correspond to reality because I don't know what it is."**, Stephen Hawking, [thanks Sabine!, from "naivetheorist"](http://backreaction.blogspot.com.br/2017/11/how-do-you-prove-that-earth-is-older.html)
+- **"The ability to reduce everything to simple fundamental laws does not imply the ability to start from those laws and reconstruct the universe. The constructionist hypothesis breaks down when confronted with the twin difficulties of scale and complexity. At each level of complexity entirely new properties appear. Psychology is not applied biology, nor is biology applied chemistry. We can now see that the whole becomes not merely more, but very different from the sum of its parts."**, P. W. Anderson, [Fermat's library again](http://fermatslibrary.com/s/more-is-different#email-newsletter)
 
 ## Português
 

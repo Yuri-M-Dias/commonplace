@@ -110,6 +110,7 @@ The quotes that i generally find inspiring. Albeit this is a repository just to 
 - **" FITZGERALD: The rich are different from us.
 HEMINGWAY: Yes, they have more money.
 "**, [from this paper again](http://fermatslibrary.com/s/more-is-different#email-newsletter)
+- **"How can you not afford peer reviews? (Answer: you don't have time to do peer reviews because you're too busy writing bugs!)"**, Phil Koopman, [blog post](https://betterembsw.blogspot.com.br/2017/10/top-five-embedded-software-management.html)
 
 ## Português
 

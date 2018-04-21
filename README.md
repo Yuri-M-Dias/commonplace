@@ -113,6 +113,7 @@ HEMINGWAY: Yes, they have more money.
 - **"How can you not afford peer reviews? (Answer: you don't have time to do peer reviews because you're too busy writing bugs!)"**, Phil Koopman, [blog post](https://betterembsw.blogspot.com.br/2017/10/top-five-embedded-software-management.html)
 - **"It is better to obtain an approximate answer to the correct problem than an exact answer to the wrong problem."**, Derek Jones, [his book](http://www.knosof.co.uk/ESEUR/ESEUR-draft.pdf)
 - **"But whenever you do physics and the math gives you an infinity, you should look for a mistake. Nothing physically real can be infinite."**, Hossenfelder, Sabine, [her blog](http://backreaction.blogspot.com.br/2018/03/why-black-stars-arent-thing.html)
+- **"The people, I would say. There is no patent. Could you patent the sun?"**; Salk, Jonas; [a bloody scientific hero](https://www.youtube.com/watch?v=erHXKP386Nk)
 
 
 ## Português

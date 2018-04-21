@@ -114,6 +114,7 @@ HEMINGWAY: Yes, they have more money.
 - **"It is better to obtain an approximate answer to the correct problem than an exact answer to the wrong problem."**, Derek Jones, [his book](http://www.knosof.co.uk/ESEUR/ESEUR-draft.pdf)
 - **"But whenever you do physics and the math gives you an infinity, you should look for a mistake. Nothing physically real can be infinite."**, Hossenfelder, Sabine, [her blog](http://backreaction.blogspot.com.br/2018/03/why-black-stars-arent-thing.html)
 - **"The people, I would say. There is no patent. Could you patent the sun?"**; Salk, Jonas; [a bloody scientific hero](https://www.youtube.com/watch?v=erHXKP386Nk)
+- **"But then again these days I see people demanding private free online social networking services to be held accountable for their election results, be obliged to care about their real-world safety and promote them professionally. Barking up wrong trees?"**, "Chapette", [as a comment on this post](http://backreaction.blogspot.com.br/2018/04/guest-post-brian-keating-about-his-book.html)
 
 
 ## Português

@@ -122,6 +122,7 @@ HEMINGWAY: Yes, they have more money.
 - **"But I try not to think with my gut. If I'm serious about understanding the world, thinking with anything besides my brain, as tempting as that might be, is likely to get me into trouble. It's OK to reserve judgment until the evidence is in."**, Carl Sagan, The Demon-Haunted World: Science as a candle in the dark
 - **"And that’s how it will end, the great human civilization: Not with a bang and not with a whimper, but with everyone yelling at each other that someone else was responsible to do something about it."**, Hossenfelder, Sabine, [her blog](http://backreaction.blogspot.com/2018/09/im-now-older-than-my-father-has-ever.html)
 - **"Instead of wasting resources on the constant redevelopment of the same functions, money can now be spent on a more productive endeavor: the peaceful, international exploration of space."**, Adrian J. Hooke, CCSDS Advanced Orbiting Systems: International Data Communications Standards for the Space Station Freedom, 1990
+- **"I'm Loyal to Nothing Except the Dream"**, Jeff Atwood quoting Captain America, [this post](https://blog.codinghorror.com/im-loyal-to-nothing-except-the-dream/)
 
 ## Português
 

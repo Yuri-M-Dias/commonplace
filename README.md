@@ -123,6 +123,7 @@ HEMINGWAY: Yes, they have more money.
 - **"And that’s how it will end, the great human civilization: Not with a bang and not with a whimper, but with everyone yelling at each other that someone else was responsible to do something about it."**, Hossenfelder, Sabine, [her blog](http://backreaction.blogspot.com/2018/09/im-now-older-than-my-father-has-ever.html)
 - **"Instead of wasting resources on the constant redevelopment of the same functions, money can now be spent on a more productive endeavor: the peaceful, international exploration of space."**, Adrian J. Hooke, CCSDS Advanced Orbiting Systems: International Data Communications Standards for the Space Station Freedom, 1990
 - **"I'm Loyal to Nothing Except the Dream"**, Jeff Atwood quoting Captain America, [this post](https://blog.codinghorror.com/im-loyal-to-nothing-except-the-dream/)
+- **"I have no idea. People who boast about their IQ are losers."**, Stephen Hawking, [when asked about his IQ](https://en.wikiquote.org/wiki/Stephen_Hawking)
 
 ## Português
 

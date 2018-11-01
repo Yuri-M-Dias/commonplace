@@ -124,6 +124,7 @@ HEMINGWAY: Yes, they have more money.
 - **"Instead of wasting resources on the constant redevelopment of the same functions, money can now be spent on a more productive endeavor: the peaceful, international exploration of space."**, Adrian J. Hooke, CCSDS Advanced Orbiting Systems: International Data Communications Standards for the Space Station Freedom, 1990
 - **"I'm Loyal to Nothing Except the Dream"**, Jeff Atwood quoting Captain America, [this post](https://blog.codinghorror.com/im-loyal-to-nothing-except-the-dream/)
 - **"I have no idea. People who boast about their IQ are losers."**, Stephen Hawking, [when asked about his IQ](https://en.wikiquote.org/wiki/Stephen_Hawking)
+- **"I won’t mince words, this is worship of authority. People confuse the day to day practice with the scientific method itself, and treat the results of the practice as though it was perfect and the output guaranteed by the sanctity of the lab coat and the scatterplot."**, Sherif Soliman, [this very concerning post](http://sherifsoliman.com/2017/04/16/academia-troubles)
 
 ## Português
 

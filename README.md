@@ -125,6 +125,7 @@ HEMINGWAY: Yes, they have more money.
 - **"I'm Loyal to Nothing Except the Dream"**, Jeff Atwood quoting Captain America, [this post](https://blog.codinghorror.com/im-loyal-to-nothing-except-the-dream/)
 - **"I have no idea. People who boast about their IQ are losers."**, Stephen Hawking, [when asked about his IQ](https://en.wikiquote.org/wiki/Stephen_Hawking)
 - **"I won’t mince words, this is worship of authority. People confuse the day to day practice with the scientific method itself, and treat the results of the practice as though it was perfect and the output guaranteed by the sanctity of the lab coat and the scatterplot."**, Sherif Soliman, [this very concerning post](http://sherifsoliman.com/2017/04/16/academia-troubles)
+- **" I can only hope that someday my achievements approach the sublime level you have surmounted. I would be truly honored to be worthy of having horns and an evil mustache drawn on a picture of me on a Wikipedia page for the crime of spreading knowledge."**, Jonathan Starr, [this comment on Sabine's blog](http://backreaction.blogspot.com/2018/10/dear-dr-b-what-do-you-actually-live-from.html?showComment=1539719224203#c8680908213906319457)
 
 ## Português
 

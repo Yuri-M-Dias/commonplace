@@ -54,7 +54,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | Harry Potter and the Goblet of Fire | J. K. Rowling | Kindle | 2017-02 | 2017-02 |
 | Harry Potter and the Prisoner of Azkaban | J. K. Rowling | Kindle | 2017-02 | 2017-02 |
 | Harry Potter and the Chamber of Secrets | J. K. Rowling | Kindle | 2017-02 | 2017-02 |
-| Harry Potter and the Harry Potter and the Philosopher's Stone | J. K. Rowling | Kindle | 2017-02 | 2017-02 |
+| Harry Potter and the Philosopher's Stone | J. K. Rowling | Kindle | 2017-02 | 2017-02 |
 | The Slow Regard of Silent Things | Patrick Rothfuss | Kindle | 2016-12 | 2016-12 |
 | Consider Phlebas: A Culture Novel | Iain M. Banks | Kindle | 2016-11 | 2016-11 |
 | Romeo and Julliet | William Shakespeare | Audiobook | 2017 | 2017 |
@@ -70,6 +70,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | The Return of Vaman | Jayant V. Narlikar | Kindle | 2016 |
 | The New Martians | Nick Kansas | Kindle | 2016 |
 | To Be or Not To Be | Machado de Assis | Kindle | 2016 | 2016 |
+| A Mão e a Luva | Machado de Assis | Audiobook | 2016 | 2016 |
 | The Call of Cthulhu | H. P. Lovecraft | Audibook | 2016 | 2016 |
 | Frankenstein | Mary Shelley | Audiobook | 2016 | 2016 |
 | Hamlet | Shakespeare | Audiobook | 2016 | 2016 |
@@ -85,13 +86,18 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | The Foundation Trilogy (BBC Broadcast) | Isaac Asimov | Audiobook | 2015 | 2015 |
 | The City at World's End | Edgar Rice Burroughs | Audiobook | 2015 | 2015 |
 | Papillon | Henri Charrière | Hardcover | 2015 | 2015 |
-| Madame Bovary | tave Flaubert | Hardcover | 2014 | 2014 |
+| 1Q84 (Trilogy) | Haruki Murakami | Hardcover | 2015 | 2015 |
+| Madame Bovary | Gustave Flaubert | Hardcover | 2014 | 2014 |
 | Alice no País das Maravilhas | Lewis Caroll | Hardcover | 2014 | 2014 |
 | O Morro dos Ventos Uivantes | Emily Brontë | Hardcover | 2014 | 2014 |
 | Orgulho e Preconceito e Zumbis| Seth Grahame-Smith | Hardcover | 2013 | 2013 |
 | Razão e Sensibilidade | Jane Austen | Hardcover | 2013 | 2013 |
 | Mansfield Park | Jane Austen | Hardcover | 2012 | 2012 |
-| Orgulho e Preconceito| Jane Austen | Hardcover | 2012 | 2012 |
+| Uma noite em cinco atos | Alberto Martins | Hardcover | 2012 | 2012 |
+| Murilo Rubião: Obra Completa | Murilo Rubião | Hardcover | 2012 | 2012 |
+| Orgulho e Preconceito | Jane Austen | Hardcover | 2012 | 2012 |
+| O Temor do Sábio | Patrick Rothfuss | Hardcover | 2012 | 2012 |
+| O Nome do Vento | Patrick Rothfuss | Hardcover | 2012 | 2012 |
 | The Art of War | Sun Tzu | Hardcover | 2011 | 2011 |
 | Harry Potter e as Relíquias da Morte | J. K. Rowling | Hardcover | 2007 | 2007 |
 | Harry Potter e o Príncipe Mestiço | J. K. Rowling | Hardcover | 2006 | 2006 |

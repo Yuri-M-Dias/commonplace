@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Finished |
 |------|--------|--------|---------|----------|
+| The Sorrows of Young Werther | Johann Wolfgang von Goethe | Kindle | 2019-02-17 | 2019-02-22 |
 | Flatland - A Romance of Many Dimensions | Edwin Abbott Abbott | Kindle | 2019-02-14 | 2019-02-17 |
 | A espiral da morte: Como a humanidade alterou a máquina do clima | Claudio Angelo | Kindle | 2019-01-28 | 2019-02-13 |
 | The Anti-Capitalistic Mentality (LvMI) | Ludwig von Mises | Kindle | 2019-01-01 | 2019-01 |
@@ -108,9 +109,8 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| The Sorrows of Young Werther | Johann Wolfgang von Goethe | Kindle | 2019-02-17 |
+| Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder | Kindle | 2019-02-23 |
 | Digital Minimalism: Choosing a Focused Life in a Noisy World | Cal Newport | Kindle ||
-| Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder | Kindle ||
 | On the origin of species | Charles Darwin | Kindle | 2018-01 |
 | Bom dia para os Defuntos | Manuel Scorza | Hardcover | 2018-09 |
 | Physiologie du goût | Brillat-Savarin | Kindle | 2018-08-08 |

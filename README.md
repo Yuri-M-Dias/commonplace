@@ -130,6 +130,7 @@ HEMINGWAY: Yes, they have more money.
 - **"If someone does not understand the problem, they should not be allowed to program a solution for it."**, from [here](https://edgecoders.com/software-engineering-is-different-from-programming-b108c135af26), but I can't find a reliable source for it.
 - **"The metaphor would also become more realistic if we imagine that there is not just one hand daintily exploring the urn: instead, picture a crowd of scuffling prospectors shoving in their arms in hopes of gold and glory and citations."**, Nick Bolstrom, Vulnerable World Hypothesis, [work in progress](https://nickbostrom.com/papers/vulnerable.pdf)
 - **"I understand that you do not like what I am doing. Please understand that I don't care at all whether you like it."**, Hossenfelder, Sabine, [her blog](http://backreaction.blogspot.com/2019/02/particle-physicists-surprised-to-find-i.html?showComment=1549257240325#c3779486486102679997)
+- **"A special kind of fool is born when intelligence thus outwits itself."**, Bostrom, Nick, (quoting somebody else though) [Information Hazards, pg 17](https://nickbostrom.com/information-hazards.pdf)
  
 ## Português
 

@@ -131,6 +131,7 @@ HEMINGWAY: Yes, they have more money.
 - **"The metaphor would also become more realistic if we imagine that there is not just one hand daintily exploring the urn: instead, picture a crowd of scuffling prospectors shoving in their arms in hopes of gold and glory and citations."**, Nick Bolstrom, Vulnerable World Hypothesis, [work in progress](https://nickbostrom.com/papers/vulnerable.pdf)
 - **"I understand that you do not like what I am doing. Please understand that I don't care at all whether you like it."**, Hossenfelder, Sabine, [her blog](http://backreaction.blogspot.com/2019/02/particle-physicists-surprised-to-find-i.html?showComment=1549257240325#c3779486486102679997)
 - **"A special kind of fool is born when intelligence thus outwits itself."**, Bostrom, Nick, (quoting somebody else though) [Information Hazards, pg 17](https://nickbostrom.com/information-hazards.pdf)
+- **"I understand that many of you cannot break the ranks without putting your jobs at risk. I do not – and will not – expect you to sacrifice a career you worked hard for; no one would be helped by this. But I want to remind you that you didn’t become a scientist just to shut up and advocate."**, Hossenfelder, Sabine, [her blog](http://backreaction.blogspot.com/2019/03/merchants-of-hype.html)
  
 ## Português
 

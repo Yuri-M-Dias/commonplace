@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Finished |
 |------|--------|--------|---------|----------|
+| Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder | Kindle | 2019-02-23 | 2019-03-17 |
 | The Sorrows of Young Werther | Johann Wolfgang von Goethe | Kindle | 2019-02-17 | 2019-02-22 |
 | Flatland - A Romance of Many Dimensions | Edwin Abbott Abbott | Kindle | 2019-02-14 | 2019-02-17 |
 | A espiral da morte: Como a humanidade alterou a máquina do clima | Claudio Angelo | Kindle | 2019-01-28 | 2019-02-13 |
@@ -109,8 +110,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder | Kindle | 2019-02-23 |
-| Digital Minimalism: Choosing a Focused Life in a Noisy World | Cal Newport | Kindle ||
+| Digital Minimalism: Choosing a Focused Life in a Noisy World | Cal Newport | Kindle |2019-03-17 |
 | On the origin of species | Charles Darwin | Kindle | 2018-01 |
 | Bom dia para os Defuntos | Manuel Scorza | Hardcover | 2018-09 |
 | Physiologie du goût | Brillat-Savarin | Kindle | 2018-08-08 |

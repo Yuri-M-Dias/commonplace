@@ -133,6 +133,7 @@ HEMINGWAY: Yes, they have more money.
 - **"A special kind of fool is born when intelligence thus outwits itself."**, Bostrom, Nick, (quoting somebody else though) [Information Hazards, pg 17](https://nickbostrom.com/information-hazards.pdf)
 - **"I understand that many of you cannot break the ranks without putting your jobs at risk. I do not – and will not – expect you to sacrifice a career you worked hard for; no one would be helped by this. But I want to remind you that you didn’t become a scientist just to shut up and advocate."**, Hossenfelder, Sabine, [her blog](http://backreaction.blogspot.com/2019/03/merchants-of-hype.html)
 - **"I write a book of one thousand pages about Hegel..nobody counts that."**, Zizek, Slavoj, [this interview](https://www.youtube.com/watch?v=2ZUCemb2plE)
+- **"Killing ideas is a necessary part of science. Think of it as community service."**, Hossenfelder, Sabine, [her blog](http://backreaction.blogspot.com/2019/03/science-has-problem-here-is-how-you-can.html)
  
 ## Português
 

@@ -110,8 +110,9 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
+| Kafka à beira mar | Haruki Murakami | Kindle | 2019-03-19 |
 | Digital Minimalism: Choosing a Focused Life in a Noisy World | Cal Newport | Kindle |2019-03-17 |
-| On the origin of species | Charles Darwin | Kindle | 2018-01 |
+| On the origin of species | Charles Darwin | Kindle | 2019-01 |
 | Bom dia para os Defuntos | Manuel Scorza | Hardcover | 2018-09 |
 | Physiologie du goût | Brillat-Savarin | Kindle | 2018-08-08 |
 | Tank Warfare on the Eastern Front 1941-1942: Schwerpunkt | Robert Forczyk | Kindle | 2016 |

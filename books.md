@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Finished |
 |------|--------|--------|---------|----------|
+| Kafka à beira mar | Haruki Murakami | Kindle | 2019-03-19 | 2019-04-09 |
 | Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder | Kindle | 2019-02-23 | 2019-03-17 |
 | The Sorrows of Young Werther | Johann Wolfgang von Goethe | Kindle | 2019-02-17 | 2019-02-22 |
 | Flatland - A Romance of Many Dimensions | Edwin Abbott Abbott | Kindle | 2019-02-14 | 2019-02-17 |
@@ -110,7 +111,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| Kafka à beira mar | Haruki Murakami | Kindle | 2019-03-19 |
+| The Tempest | William Shakespeare | Kindle | 2019-04-09 |
 | Digital Minimalism: Choosing a Focused Life in a Noisy World | Cal Newport | Kindle |2019-03-17 |
 | On the origin of species | Charles Darwin | Kindle | 2019-01 |
 | Bom dia para os Defuntos | Manuel Scorza | Hardcover | 2018-09 |

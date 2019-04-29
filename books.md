@@ -1,6 +1,6 @@
 # Book reading lists
 
-This is a catalog of all my read/currently reading books. Why? I don't want to note this on goodreads or third parties.
+This is a catalog of all my read and currently reading books. Why? I don't want to note this on goodreads or third parties.
 
 The finished column is forever skewed, as I'm only keeping track of them way late. Started blank means that I haven't actually started reading it, it's just next on the list.
 
@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Finished |
 |------|--------|--------|---------|----------|
+| Digital Minimalism: Choosing a Focused Life in a Noisy World | Cal Newport | Kindle |2019-03-17 | 2019-04-20 |
 | The Tempest | William Shakespeare | Kindle | 2019-04-09 | 2019-04-13 |
 | Kafka à beira mar | Haruki Murakami | Kindle | 2019-03-19 | 2019-04-09 |
 | Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder | Kindle | 2019-02-23 | 2019-03-17 |
@@ -112,7 +113,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| Digital Minimalism: Choosing a Focused Life in a Noisy World | Cal Newport | Kindle |2019-03-17 |
+| Walden | Henry David Thoreau | Kindle | 2019-04-21 |
 | On the origin of species | Charles Darwin | Kindle | 2019-01 |
 | Bom dia para os Defuntos | Manuel Scorza | Hardcover | 2018-09 |
 | Physiologie du goût | Brillat-Savarin | Kindle | 2018-08-08 |
@@ -126,4 +127,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Link |
 |------|--------|------|
+| O Homem que Sabia Javanês | Lima Barreto | Hardcover |
+| Memorial de Aires | Machado de Assis | Hardcover |
+| Quarto de Despejo | Carolina de Jesus | Hardcover |
 

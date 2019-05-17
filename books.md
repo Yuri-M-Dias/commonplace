@@ -130,4 +130,5 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | O Homem que Sabia Javanês | Lima Barreto | Hardcover |
 | Memorial de Aires | Machado de Assis | Hardcover |
 | Quarto de Despejo | Carolina de Jesus | Hardcover |
+| Your name | Makoto Shinkai | Hardcover |
 

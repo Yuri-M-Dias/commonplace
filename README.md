@@ -135,6 +135,7 @@ HEMINGWAY: Yes, they have more money.
 - **"I write a book of one thousand pages about Hegel..nobody counts that."**, Zizek, Slavoj, [this interview](https://www.youtube.com/watch?v=2ZUCemb2plE)
 - **"Killing ideas is a necessary part of science. Think of it as community service."**, Hossenfelder, Sabine, [her blog](http://backreaction.blogspot.com/2019/03/science-has-problem-here-is-how-you-can.html)
 - **"As a rule of thumb, I'd recommend avoiding taking anything quantifiable as a measure of success because anything that goes to n also goes to n+1."**, [this Academia answer](https://academia.stackexchange.com/a/127438/40854)
+- **"We're a lot smarter than the dinosaurs. We didn't just wait around, we made our own asteroid!"**, [this answer](http://backreaction.blogspot.com/2019/05/climate-change-there-are-no-simple.html?showComment=1558105879172#c6381473872846658824)
  
 ## Português
 

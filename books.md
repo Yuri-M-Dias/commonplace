@@ -10,6 +10,8 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Finished |
 |------|--------|--------|---------|----------|
+| Memorial de Aires | Machado de Assis | Hardcover | 2019-05-23 | 2019-06-11 |
+| O Homem que Sabia Javanês e outras histórias | Lima Barreto | Hardcover | 2019-05-19 | 2019-05-22 |
 | Walden | Henry David Thoreau | Kindle | 2019-04-21 | 2019-05-18 |
 | Digital Minimalism: Choosing a Focused Life in a Noisy World | Cal Newport | Kindle |2019-03-17 | 2019-04-20 |
 | The Tempest | William Shakespeare | Kindle | 2019-04-09 | 2019-04-13 |
@@ -114,7 +116,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| O Homem que Sabia Javanês e outras histórias | Lima Barreto | Hardcover | 2019-05-19 |
+| Ball Lightning | Cixin Liu | Kindle | 2019-06-11 |
 | On the origin of species | Charles Darwin | Kindle | 2019-01 |
 | Bom dia para os Defuntos | Manuel Scorza | Hardcover | 2018-09 |
 | Physiologie du goût | Brillat-Savarin | Kindle | 2018-08-08 |
@@ -128,7 +130,6 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Link |
 |------|--------|------|
-| Memorial de Aires | Machado de Assis | Hardcover |
 | Quarto de Despejo | Carolina de Jesus | Hardcover |
 | Your name | Makoto Shinkai | Hardcover |
 

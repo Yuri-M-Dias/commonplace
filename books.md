@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Finished |
 |------|--------|--------|---------|----------|
+| The Wandering Earth (and other stories) | Cixin Liu | Kindle | 2019-06-22 | 2019-06-29 |
 | Ball Lightning | Cixin Liu | Kindle | 2019-06-11 | 2019-06-22 |
 | Memorial de Aires | Machado de Assis | Hardcover | 2019-05-23 | 2019-06-11 |
 | O Homem que Sabia Javanês e outras histórias | Lima Barreto | Hardcover | 2019-05-19 | 2019-05-22 |
@@ -117,7 +118,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| The Wandering Earth (and other stories) | Cixin Liu | Kindle | 2019-06-22 |
+| Alcântara: a história inspirada na História | Miriam Rezende Gonçalves | Kindle | 2019-06-29 |
 | On the origin of species | Charles Darwin | Kindle | 2019-01 |
 | Bom dia para os Defuntos | Manuel Scorza | Hardcover | 2018-09 |
 | Physiologie du goût | Brillat-Savarin | Kindle | 2018-08-08 |

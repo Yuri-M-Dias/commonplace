@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Finished |
 |------|--------|--------|---------|----------|
+| Faust | Johann Wolfgang von Goethe | Kindle | 2019-07-09 | 2019-07-25 |
 | Alcântara: a história inspirada na História | Miriam Rezende Gonçalves | Kindle | 2019-06-29 | 2019-07-09 |
 | The Wandering Earth (and other stories) | Cixin Liu | Kindle | 2019-06-22 | 2019-06-29 |
 | Ball Lightning | Cixin Liu | Kindle | 2019-06-11 | 2019-06-22 |
@@ -119,7 +120,6 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| Faust | Johann Wolfgang von Goethe | Kindle | 2019-07-09 |
 | On the origin of species | Charles Darwin | Kindle | 2019-01 |
 | Bom dia para os Defuntos | Manuel Scorza | Hardcover | 2018-09 |
 | Physiologie du goût | Brillat-Savarin | Kindle | 2018-08-08 |

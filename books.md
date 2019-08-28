@@ -138,4 +138,5 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 |------|--------|------|
 | Quarto de Despejo | Carolina de Jesus | Hardcover |
 | Your name | Makoto Shinkai | Hardcover |
+| Vidas Secas | Graciliano Ramos | Hardcover |
 

@@ -122,6 +122,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
+| A Naúsea | Jean-Paul Sartre | Hardcover | 2019-09-26 |
 | Voyage au Centre de la Terre | Jules Verne | Kindle | 2019-08-17 |
 | A Singularidade está próxima | Ray Kurzweil | Kindle | 2019-08-17 |
 | On the origin of species | Charles Darwin | Kindle | 2019-01 |

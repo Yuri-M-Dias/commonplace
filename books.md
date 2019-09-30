@@ -81,8 +81,8 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | Spaceflight Theories: A beginners guide to rocket and space sciences | Raymond T. Hill | Kindle | 2016 | 2016 |
 | DIY Satellite Platforms | Sandy Antunes | Kindle | 2016 | 2016 |
 | Around the World in 80 Days | Jules Verne | Kindle | 2016 | 2016 |
-| The Return of Vaman | Jayant V. Narlikar | Kindle | 2016 |
-| The New Martians | Nick Kansas | Kindle | 2016 |
+| The Return of Vaman | Jayant V. Narlikar | Kindle | 2016 | 2016 |
+| The New Martians | Nick Kansas | Kindle | 2016 | 2016 |
 | To Be or Not To Be | Machado de Assis | Kindle | 2016 | 2016 |
 | A Mão e a Luva | Machado de Assis | Audiobook | 2016 | 2016 |
 | The Call of Cthulhu | H. P. Lovecraft | Audibook | 2016 | 2016 |

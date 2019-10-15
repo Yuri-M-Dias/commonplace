@@ -105,7 +105,10 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | Madame Bovary | Gustave Flaubert | Hardcover | 2014 | 2014 |
 | Alice no País das Maravilhas | Lewis Caroll | Hardcover | 2014 | 2014 |
 | O Morro dos Ventos Uivantes | Emily Brontë | Hardcover | 2014 | 2014 |
+| A Dança dos Dragões (As Crônicas de Gelo e Fogo Livro 5) | George R. R. Martin | 2014 | 2014 |
 | Orgulho e Preconceito e Zumbis| Seth Grahame-Smith | Hardcover | 2013 | 2013 |
+| O Festim Dos Corvos (As Crônicas de Gelo e Fogo Livro 4) | George R. R. Martin | 2013 | 2013 |
+| A tormenta de espadas (As Crônicas de Gelo e Fogo Livro 3) | George R. R. Martin | 2013 | 2013 |
 | Razão e Sensibilidade | Jane Austen | Hardcover | 2013 | 2013 |
 | Mansfield Park | Jane Austen | Hardcover | 2012 | 2012 |
 | Uma noite em cinco atos | Alberto Martins | Hardcover | 2012 | 2012 |
@@ -113,6 +116,8 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | Orgulho e Preconceito | Jane Austen | Hardcover | 2012 | 2012 |
 | O Temor do Sábio | Patrick Rothfuss | Hardcover | 2012 | 2012 |
 | O Nome do Vento | Patrick Rothfuss | Hardcover | 2012 | 2012 |
+| A fúria dos reis (As Crônicas de Gelo e Fogo Livro 2) | George R. R. Martin | 2012 | 2012 |
+| A guerra dos tronos (As Crônicas de Gelo e Fogo Livro 1) | George R. R. Martin | 2012 | 2012 |
 | The Art of War | Sun Tzu | Hardcover | 2011 | 2011 |
 | Harry Potter e as Relíquias da Morte | J. K. Rowling | Hardcover | 2007 | 2007 |
 | Harry Potter e o Príncipe Mestiço | J. K. Rowling | Hardcover | 2006 | 2006 |

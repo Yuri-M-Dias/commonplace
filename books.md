@@ -123,6 +123,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | Eclipse | Stephenie Meyer | Hardcover | 2010 | 2010 |
 | Lua Nova | Stephenie Meyer | Hardcover | 2010 | 2010 |
 | Crepúsculo | Stephenie Meyer | Hardcover | 2010 | 2010 |
+| Quarto de Despejo | Carolina de Jesus | Hardcover | 2009 | 2009 |
 | Amanhã, Quando a Guerra Começou - Volume 1 | John Marsden | Hardcover | 2007 | 2007 |
 | Harry Potter e as Relíquias da Morte | J. K. Rowling | Hardcover | 2007 | 2007 |
 | O Conde de Monte Cristo | Alexandre Dumas | Hardcover | 2006 | 2006 |

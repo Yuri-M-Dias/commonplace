@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Finished |
 |------|--------|--------|---------|----------|
+| Supernova Era | Cixin Liu | Kindle | 2019-10-24 | 2019-11-07 |
 | Voyage au Centre de la Terre | Jules Verne | Kindle | 2019-08-17 | 2019-10-09 |
 | De Cuba, Com Carinho | Yoani Sanchez | Hardcover | 2019-07-29 | 2019-08-15 |
 | O que eu vi o que nós veremos | Alberto Santos Dumont | Kindle | 2019-07-15 | 2019-07-29 |
@@ -135,7 +136,6 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| Supernova Era | Cixin Liu | Kindle | 2019-10-24 |
 | A Naúsea | Jean-Paul Sartre | Hardcover | 2019-09-26 |
 | A Singularidade está próxima | Ray Kurzweil | Kindle | 2019-08-17 |
 | On the origin of species | Charles Darwin | Kindle | 2019-01 |

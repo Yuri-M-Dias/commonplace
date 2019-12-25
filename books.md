@@ -10,6 +10,8 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Finished |
 |------|--------|--------|---------|----------|
+| Discurso sobre a origem e os fundamentos da desigualdade entre os homens | Jean-Jacques Rousseau | Hardcover | 2019-11-21 | 2019-12-25 |
+| Notes from the underground | Fyodor Dostoyevsky | Hardcover | 2019-11-20 | 2019-12-19 |
 | A Naúsea | Jean-Paul Sartre | Hardcover | 2019-09-26 | 2019-11-21 |
 | Supernova Era | Cixin Liu | Kindle | 2019-10-24 | 2019-11-07 |
 | Voyage au Centre de la Terre | Jules Verne | Kindle | 2019-08-17 | 2019-10-09 |
@@ -137,8 +139,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| Notes from the underground | Fyodor Dostoyevsky | Hardcover | 2019-11-20 |
-| Discurso sobre a origem e os fundamentos da desigualdade entre os homens | Jean-Jacques Rousseau | Hardcover | 2019-11-21 |
+| 日本絵とき事典 | Unknown | Hardcover | 2019-12-25 |
 | A Singularidade está próxima | Ray Kurzweil | Kindle | 2019-08-17 |
 | On the origin of species | Charles Darwin | Kindle | 2019-01 |
 | Bom dia para os Defuntos | Manuel Scorza | Hardcover | 2018-09 |

@@ -135,6 +135,37 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | Harry Potter e a Ordem da Fênix | J. K. Rowling | Hardcover | 2005 | 2005 |
 | Harry Potter e o Cálice de Fogo| J. K. Rowling | Hardcover | 2004 | 2004 |
 
+| A Batalha do Labirinto | Rick Riordan | Hardcover | 2011 | 2011 |
+| O Último Olimpiano | Rick Riordan | Hardcover | 2012 | 2012 |
+| Moby Dick | Herman Melville | Hardcover | 2015 | 2015 |
+| Tóquio Ano Zero | David Peace | Hardcover | 2017 | 2017 |
+| A Arte de Questionar | A. C. Grayling | Hardcover | 2016 | 2016 |
+| O Cérebro de Alta Performance | Luiz Fernando Garcia | Hardcover | 2016 | 2016 |
+| As Vantagens de ser Invisível | Stephen Chbosky | Hardcover | 2017 | 2017 |
+| O Diário de Anne Frank | Anne Frank | Hardcover | 2016 | 2016 |
+| O Homem que queria ser rei e outras histórias | Rudyard Kipling | Hardcover | 2014 | 2014 |
+| O Restaurante no fim do universo | Douglas Adams | Hardcover | 2014 | 2014 |
+| A Vida, o Universo e tudo mais | Douglas Adams | Hardcover | 2015 | 2015 |
+| The Complete Works of Sherlock Holmes | Sir Arthur Conan Doyle | Hardcover | 2014 | 2014 |
+| The Complete Illustrated works of Edgar Allan Poe | Allan Poe | Hardcover | 2016 | 2016 |
+| Mensagem | Fernando Pessoa | Hardcover | 2017 | 2017 |
+| O Coração das Trevas | Joseph Conrad | Hardcover | 2014 | 2014 |
+| Os Sertões: Vol 1 | Euclides da Cunha | Hardcover | 2015 | 2015 |
+| Os Sertões: Vol 2 | Euclides da Cunha | Hardcover | 2016 | 2016 |
+| Jogo Perigoso | Stephen King | Hardcover | 2017 | 2017 |
+| O Apanhador de Sonhos | Stephen King | Hardcover | 2016 | 2016 |
+| Alice Through the Looking Glass | Lewis Caroll | Hardcover | 2015 | 2015 |
+| A Bússola de Ouro | Philip Pullman | Hardcover | 2005 | 2005 |
+| A Faca Sutil | Philip Pullman | Hardcover | 2005 | 2005 |
+| A Luneta Âmbar | Philip Pullman | Hardcover | 2005 | 2005 |
+| O Leão, a Feiticeira e o Guarda-Roupa | C. S. Lewis | Hardcover | 2009 | 2009 |
+| Princípe Caspian | C. S. Lewis | Hardcover | 2009 | 2009 |
+| A Viagem do Peregrino da Alvorada | C. S. Lewis | Hardcover | 2009 | 2009 |
+| A Cadeira de Prata | C. S. Lewis | Hardcover | 2009 | 2009 |
+| O Cavalo e seu Menino | C. S. Lewis | Hardcover | 2009 | 2009 |
+| O Sobrinho do Mago | C. S. Lewis | Hardcover | 2010 | 2010 |
+| A Batalha Final | C. S. Lewis | Hardcover | 2010 | 2010 |
+
 # Currently Reading
 
 | Name | Author | Format | Started |

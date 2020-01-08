@@ -170,7 +170,16 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| 日本絵とき事典 | Unknown | Hardcover | 2019-12-25 |
+| As Cavernas de Aço | Isaac Asimov | Kindle | 2020-01-03 |
+| 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
+
+# Want/backlog list
+
+| Name | Author | Format | Started | Link |
+|------|--------|--------|---------|------|
+| Quarto de Despejo | Carolina de Jesus | Hardcover |
+| Your name | Makoto Shinkai | Hardcover |
+| Vidas Secas | Graciliano Ramos | Hardcover |
 | A Singularidade está próxima | Ray Kurzweil | Kindle | 2019-08-17 |
 | On the origin of species | Charles Darwin | Kindle | 2019-01 |
 | Bom dia para os Defuntos | Manuel Scorza | Hardcover | 2018-09 |
@@ -180,12 +189,4 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | Assim falou Zaratustra | Friedrich Nietzsche | Kindle | 2016 |
 | Beyond Good and Evil | Friedrich Nietzsche | Kindle | 2016 |
 | O Demônio Familiar | José de Alencar | Kindle | 2016 |
-
-# Want/backlog list
-
-| Name | Author | Link |
-|------|--------|------|
-| Quarto de Despejo | Carolina de Jesus | Hardcover |
-| Your name | Makoto Shinkai | Hardcover |
-| Vidas Secas | Graciliano Ramos | Hardcover |
 

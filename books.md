@@ -156,8 +156,8 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | O Apanhador de Sonhos | Stephen King | Hardcover | 2016 | 2016 |
 | Alice Through the Looking Glass | Lewis Caroll | Hardcover | 2015 | 2015 |
 | A Bússola de Ouro | Philip Pullman | Hardcover | 2005 | 2005 |
-| A Faca Sutil | Philip Pullman | Hardcover | 2005 | 2005 |
-| A Luneta Âmbar | Philip Pullman | Hardcover | 2005 | 2005 |
+| A Faca Sutil | Philip Pullman | Hardcover | 2006 | 2006 |
+| A Luneta Âmbar | Philip Pullman | Hardcover | 2006 | 2006 |
 | O Leão, a Feiticeira e o Guarda-Roupa | C. S. Lewis | Hardcover | 2009 | 2009 |
 | Princípe Caspian | C. S. Lewis | Hardcover | 2009 | 2009 |
 | A Viagem do Peregrino da Alvorada | C. S. Lewis | Hardcover | 2009 | 2009 |
@@ -173,7 +173,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | As Cavernas de Aço | Isaac Asimov | Kindle | 2020-01-03 |
 | 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
 
-# Want/backlog list
+# Want/backlog/Frozen (dropped?) list
 
 | Name | Author | Format | Started | Link |
 |------|--------|--------|---------|------|

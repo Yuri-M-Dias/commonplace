@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Finished |
 |------|--------|--------|---------|----------|
+| As Cavernas de Aço | Isaac Asimov | Kindle | 2020-01-03 | 2020-01-08 |
 | Discurso sobre a origem e os fundamentos da desigualdade entre os homens | Jean-Jacques Rousseau | Hardcover | 2019-11-21 | 2019-12-25 |
 | Notes from the underground | Fyodor Dostoyevsky | Hardcover | 2019-11-20 | 2019-12-19 |
 | A Naúsea | Jean-Paul Sartre | Hardcover | 2019-09-26 | 2019-11-21 |
@@ -170,7 +171,6 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| As Cavernas de Aço | Isaac Asimov | Kindle | 2020-01-03 |
 | 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
 
 # Want/backlog/Frozen (dropped?) list

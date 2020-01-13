@@ -171,6 +171,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
+| A Morte da Luz | George R. R. Martin | Kindle | 2020-01-10 |
 | 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
 
 # Want/backlog/Frozen (dropped?) list

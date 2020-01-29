@@ -179,6 +179,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Link |
 |------|--------|--------|---------|------|
+| Apologia de Sócrates | Platão | Hardcover |
 | Quarto de Despejo | Carolina de Jesus | Hardcover |
 | Vidas Secas | Graciliano Ramos | Hardcover |
 | A Singularidade está próxima | Ray Kurzweil | Kindle | 2019-08-17 |

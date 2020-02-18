@@ -173,6 +173,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
 | 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
+| Do que eu falo quando falo de corrida | Haruki Murakami | Kindle | 2020-02-15 |
 
 # Want/backlog/Frozen (dropped?) list
 

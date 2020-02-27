@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Finished |
 |------|--------|--------|---------|----------|
+| Do que eu falo quando falo de corrida | Haruki Murakami | Kindle | 2020-02-15 | 2020-02-26 |
 | Your name | Makoto Shinkai | Hardcover | 2020-01-21 | 2020-02-03 |
 | A Morte da Luz | George R. R. Martin | Kindle | 2020-01-10 | 2020-01-19 |
 | As Cavernas de Aço | Isaac Asimov | Kindle | 2020-01-03 | 2020-01-08 |
@@ -173,7 +174,6 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
 | 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
-| Do que eu falo quando falo de corrida | Haruki Murakami | Kindle | 2020-02-15 |
 
 # Want/backlog/Frozen (dropped?) list
 

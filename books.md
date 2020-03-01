@@ -174,6 +174,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
 | 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
+| Coronel Lage: o mestre dos foguetes | Bernardino da Silva | Kindle | 2020-02-27 |
 
 # Want/backlog/Frozen (dropped?) list
 

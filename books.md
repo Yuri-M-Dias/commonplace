@@ -37,7 +37,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | A espiral da morte: Como a humanidade alterou a máquina do clima | Claudio Angelo | Kindle | 2019-01-28 | 2019-02-13 |
 | The Anti-Capitalistic Mentality (LvMI) | Ludwig von Mises | Kindle | 2019-01-01 | 2019-01 |
 | Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming | Naomi Oreskes, Erik M. Conway | Kindle | 2018-12 | 2018-12 |
-| Norwegian Wood | Haruki Murakami | Kindle | 2018-12-08 | 2019-12 |
+| Norwegian Wood | Haruki Murakami | Kindle | 2018-12-08 | 2018-12 |
 | Murder on the Orient Express | Agatha Christie | Kindle | 2018-11-18 | 2018-11 |
 | Old Man And The Sea | Ernest Hemingway | Kindle | 2018-11-14 | 2018-11-15 |
 | Lost in Math: How Beauty Leads Physics Astray | Sabine Hossenfelder | Kindle | 2018-09-02 | 2018-09 |
@@ -175,12 +175,12 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 |------|--------|--------|---------|
 | 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
 | Coronel Lage: o mestre dos foguetes | Bernardino da Silva | Kindle | 2020-02-27 |
+| Apologia de Sócrates | Platão | Hardcover | 2020-03-09 |
 
 # Want/backlog/Frozen (dropped?) list
 
 | Name | Author | Format | Started | Link |
 |------|--------|--------|---------|------|
-| Apologia de Sócrates | Platão | Hardcover |
 | Quarto de Despejo | Carolina de Jesus | Hardcover |
 | Vidas Secas | Graciliano Ramos | Hardcover |
 | A Singularidade está próxima | Ray Kurzweil | Kindle | 2019-08-17 |

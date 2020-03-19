@@ -141,14 +141,18 @@ HEMINGWAY: Yes, they have more money.
  
 ## Português
 
--   **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016
--   **"Se você não se interessa, o que acontece é culpa sua."**, Daisy Peshkov, Inverno no Mundo, Ken Follett
--   **"Você ensina elas a pular do penhasco, mas no final é você quem tem que empurrar..."**; LISPECTOR, Natália
--   **"Cuidado com os desafios. Escalar uma montanha é um desafio tremendo, pode até te trazer um sentimento de satisfação ao cumprir o objetivo, mas somente os primeiros que chegaram lá serão lembrados. Os outros, trabalharam a toa."** Vitor Pamplona
--   **"MVP de um carro é só acelerar, freio é uma feature futura."**, Metaleiro, Jesus Playboy. 2016
--   **"Na subida do Everest existem centenas de corpos de pessoas altamente motivadas."**, [daqui](https://www.linkedin.com/pulse/na-subida-do-everest-existem-centenas-de-corpos-eden-wiedemann?trk=eml-b2_content_ecosystem_digest-recommended_articles-63-null&midToken=AQFSgoOm4botRw&fromEmail=fromEmail&ut=1DrfJsTrUiQDg1)
--   **"Muitas vezes em nossa vida, é preciso de qualquer jeito, trazer um sorriso no rosto, com sete espadas no peito."**, Luzia Dias da Silva
--   **"O coração é meu, mas o semblante é do próximo. portanto, devo sorrir."**, Luzia Dias da Silva
+- **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016
+- **"Se você não se interessa, o que acontece é culpa sua."**, Daisy Peshkov, Inverno no Mundo, Ken Follett
+- **"Você ensina elas a pular do penhasco, mas no final é você quem tem que empurrar..."**; LISPECTOR, Natália
+- **"Cuidado com os desafios. Escalar uma montanha é um desafio tremendo, pode até te trazer um sentimento de satisfação ao cumprir o objetivo, mas somente os primeiros que chegaram lá serão lembrados. Os outros, trabalharam a toa."** Vitor Pamplona
+- **"MVP de um carro é só acelerar, freio é uma feature futura."**, Metaleiro, Jesus Playboy. 2016
+- **"Na subida do Everest existem centenas de corpos de pessoas altamente motivadas."**, [daqui](https://www.linkedin.com/pulse/na-subida-do-everest-existem-centenas-de-corpos-eden-wiedemann?trk=eml-b2_content_ecosystem_digest-recommended_articles-63-null&midToken=AQFSgoOm4botRw&fromEmail=fromEmail&ut=1DrfJsTrUiQDg1)
+- **"Muitas vezes em nossa vida, é preciso de qualquer jeito, trazer um sorriso no rosto, com sete espadas no peito."**, Luzia Dias da Silva
+- **"O coração é meu, mas o semblante é do próximo. portanto, devo sorrir."**, Luzia Dias da Silva
+- **"Irei à estratosfera, na certeza de estar fazendo algo de útil, não somente para a minha pátria, mas para toda a humanidade, inclusive para vós, minhas tias e avós."**, Carta da SIRJA para a SIPA, Coronel Laje: o mestre dos foguetes
+- **"Se o Dr. Carlos Chagas não tem o que fazer com um gato na ionosfera, nós temos. Ele não tem nada com o peixe."**, Coronel Laje, Coronel Laje: o mestre dos foguetes
+- **"Só quebra louça quem lava pratos."**, Bernadino da Silva, Coronel Laje: o mestre dos foguetes
+- **"É o cachimbo que entorta o queixo..."**, ditado da minha tia
 
 ## Laws
 

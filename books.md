@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Finished |
 |------|--------|--------|---------|----------|
+| Coronel Lage: o mestre dos foguetes | Bernardino da Silva | Kindle | 2020-02-27 | 2020-03-19 |
 | Do que eu falo quando falo de corrida | Haruki Murakami | Kindle | 2020-02-15 | 2020-02-26 |
 | Your name | Makoto Shinkai | Hardcover | 2020-01-21 | 2020-02-03 |
 | A Morte da Luz | George R. R. Martin | Kindle | 2020-01-10 | 2020-01-19 |
@@ -174,13 +175,13 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
 | 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
-| Coronel Lage: o mestre dos foguetes | Bernardino da Silva | Kindle | 2020-02-27 |
 | Apologia de Sócrates | Platão | Hardcover | 2020-03-09 |
 
 # Want/backlog/Frozen (dropped?) list
 
 | Name | Author | Format | Started | Link |
 |------|--------|--------|---------|------|
+| Rápido e Devagar | Daniel Kahneman | Kindle |
 | Quarto de Despejo | Carolina de Jesus | Hardcover |
 | Vidas Secas | Graciliano Ramos | Hardcover |
 | A Singularidade está próxima | Ray Kurzweil | Kindle | 2019-08-17 |

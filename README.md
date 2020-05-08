@@ -138,6 +138,7 @@ HEMINGWAY: Yes, they have more money.
 - **"We're a lot smarter than the dinosaurs. We didn't just wait around, we made our own asteroid!"**, [this answer](http://backreaction.blogspot.com/2019/05/climate-change-there-are-no-simple.html?showComment=1558105879172#c6381473872846658824)
 - **"Envy me, I am very lucky. I am comfortably leaving during a peak of fame."**, Tsirelson, Boris, [his parting words](https://en.wikipedia.org/wiki/User_talk:Tsirel#Your_problem)
 - **"The purpose of computing is insight, not numbers."**, Hamming, Richard, [this article](https://archive.org/details/numericalmethods00hamm_0)
+- **"If you're insecure, put it in a bottle, and then some day you'll die."**, Reeves, Michael, [this video](https://youtu.be/iEi1F2YyH1k?t=3061)
  
 ## Português
 

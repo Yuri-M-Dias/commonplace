@@ -174,6 +174,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
+| Rápido e Devagar | Daniel Kahneman | Kindle | 2020-03-20 |
 | 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
 | Apologia de Sócrates | Platão | Hardcover | 2020-03-09 |
 
@@ -181,7 +182,6 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Link |
 |------|--------|--------|---------|------|
-| Rápido e Devagar | Daniel Kahneman | Kindle |
 | Quarto de Despejo | Carolina de Jesus | Hardcover |
 | Vidas Secas | Graciliano Ramos | Hardcover |
 | A Singularidade está próxima | Ray Kurzweil | Kindle | 2019-08-17 |

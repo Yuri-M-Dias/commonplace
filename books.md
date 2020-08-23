@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Finished |
 |------|--------|--------|---------|----------|
+| The Turn of the Screw | Henry James | Kindle | 2020-07-01 | 2020-08-01|
 | Rápido e Devagar | Daniel Kahneman | Kindle | 2020-03-20 | 2020-06-28 |
 | Coronel Lage: o mestre dos foguetes | Bernardino da Silva | Kindle | 2020-02-27 | 2020-03-19 |
 | Do que eu falo quando falo de corrida | Haruki Murakami | Kindle | 2020-02-15 | 2020-02-26 |
@@ -175,7 +176,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| The Turn of the Screw | Henry James | Kindle | 2020-07-01 |
+| Crime and Punishment | Fyodor Dostoyevsky | Kindle | 2020-08-16 |
 | 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
 | Apologia de Sócrates | Platão | Hardcover | 2020-03-09 |
 
@@ -195,5 +196,4 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | Beyond Good and Evil | Friedrich Nietzsche | Kindle | 2016 |
 | O Demônio Familiar | José de Alencar | Kindle | 2016 |
 | Les Fleurs du Mal | Charles Baudelaire | Kindle |
-| Crime and Punishment | Fyodor Dosoyevsky | Kindle |
 

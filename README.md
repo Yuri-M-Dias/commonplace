@@ -154,6 +154,7 @@ HEMINGWAY: Yes, they have more money.
 - **"Se o Dr. Carlos Chagas não tem o que fazer com um gato na ionosfera, nós temos. Ele não tem nada com o peixe."**, Coronel Laje, Coronel Laje: o mestre dos foguetes
 - **"Só quebra louça quem lava pratos."**, Bernadino da Silva, Coronel Laje: o mestre dos foguetes
 - **"É o cachimbo que entorta o queixo..."**, ditado da minha tia
+- **"Camarão que dorme a onda leva"**, provável de um ditado, escutei da Aline
 
 ## Laws
 

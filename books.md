@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Finished |
 |------|--------|--------|---------|----------|
+| Death on the Nile | Agatha Christie | Kindle | 2020-10-18 | 2020-10-27 |
 | Crime and Punishment | Fyodor Dostoyevsky | Kindle | 2020-08-16 | 2020-10-16 |
 | The Turn of the Screw | Henry James | Kindle | 2020-07-01 | 2020-08-01 |
 | Rápido e Devagar | Daniel Kahneman | Kindle | 2020-03-20 | 2020-06-28 |
@@ -177,7 +178,6 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| Death on the Nile | Agatha Christie | Kindle | 2020-10-18 |
 | 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
 | Apologia de Sócrates | Platão | Hardcover | 2020-03-09 |
 

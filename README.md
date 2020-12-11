@@ -139,7 +139,9 @@ HEMINGWAY: Yes, they have more money.
 - **"Envy me, I am very lucky. I am comfortably leaving during a peak of fame."**, Tsirelson, Boris, [his parting words](https://en.wikipedia.org/wiki/User_talk:Tsirel#Your_problem)
 - **"The purpose of computing is insight, not numbers."**, Hamming, Richard, [this article](https://archive.org/details/numericalmethods00hamm_0)
 - **"If you're insecure, put it in a bottle, and then some day you'll die."**, Reeves, Michael, [this video](https://youtu.be/iEi1F2YyH1k?t=3061)
- 
+- **"Studying the development and maintenance of software systems in the wild (i.e., dealing with the people who do it), requires researchers to forsake their creature comforts and undertake difficult and hazardous journeys into industry. While they are unlikely to experience any physical harm, there is a real risk that their egos will be seriously bruised."**, Derek Jones, [here](http://shape-of-code.coding-guidelines.com/2020/11/29/software-research-is-200-years-behind-biology-research/)
+
+
 ## Português
 
 - **"Algo errado não está certo."**, Metaleiro, Jesus Playboy, 2016

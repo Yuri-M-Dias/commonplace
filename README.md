@@ -140,6 +140,7 @@ HEMINGWAY: Yes, they have more money.
 - **"The purpose of computing is insight, not numbers."**, Hamming, Richard, [this article](https://archive.org/details/numericalmethods00hamm_0)
 - **"If you're insecure, put it in a bottle, and then some day you'll die."**, Reeves, Michael, [this video](https://youtu.be/iEi1F2YyH1k?t=3061)
 - **"Studying the development and maintenance of software systems in the wild (i.e., dealing with the people who do it), requires researchers to forsake their creature comforts and undertake difficult and hazardous journeys into industry. While they are unlikely to experience any physical harm, there is a real risk that their egos will be seriously bruised."**, Derek Jones, [here](http://shape-of-code.coding-guidelines.com/2020/11/29/software-research-is-200-years-behind-biology-research/)
+- **"[...] Once you learn what the something is, it’s evident to you that your life’s vocation couldn’t possibly be anything else, unless some external force prevents you. [...] After a few years, though, the bullies can no longer stop you: you’re finally among peers or superiors in your chosen field, regularly chatting with them on college campuses or at conferences in swanky hotels, and the main limiting factor is just the one between your ears."**, Scott Aaronson, [here](https://www.scottaaronson.com/blog/?p=5171)
 
 
 ## Português

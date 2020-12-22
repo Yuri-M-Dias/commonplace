@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Finished |
 |------|--------|--------|---------|----------|
+| Deep Space Warfare | John C. Wright | Kindle | 2020-12-13 | 2020-12-20 |
 | O assassinato do comendador - Vol 1: O surgimento da IDEA | Haruki Murakamai | Kindle | 2020-11-12 | 2020-12-11 |
 | Death on the Nile | Agatha Christie | Kindle | 2020-10-18 | 2020-10-27 |
 | Crime and Punishment | Fyodor Dostoyevsky | Kindle | 2020-08-16 | 2020-10-16 |
@@ -181,7 +182,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 |------|--------|--------|---------|
 | 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
 | Apologia de Sócrates | Platão | Hardcover | 2020-03-09 |
-| Deep Space Warfare | John C. Wright | Kindle | 2020-12-13 |
+| O Mito de Sísifo | Albert Camus | Hardcover | 2020-12-21 |
 
 # Want/backlog/Frozen (dropped?) list
 

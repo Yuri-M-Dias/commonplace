@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Finished |
 |------|--------|--------|---------|----------|
+| The Man in the High Castle | Philip K. Dick | Kindle | 2020-12-25 | 2020-12-28 |
 | O Mito de Sísifo | Albert Camus | Hardcover | 2020-12-21 | 2020-12-27 |
 | Deep Space Warfare | John C. Wright | Kindle | 2020-12-13 | 2020-12-20 |
 | O assassinato do comendador - Vol 1: O surgimento da IDEA | Haruki Murakamai | Kindle | 2020-11-12 | 2020-12-11 |
@@ -183,7 +184,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 |------|--------|--------|---------|
 | 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
 | Apologia de Sócrates | Platão | Hardcover | 2020-03-09 |
-| The Man in the High Castle | Philip K. Dick | Kindle | 2020-12-25 |
+| Pachinko | Min Jin Lee | Kindle | 2020-12-30 |
 
 # Want/backlog/Frozen (dropped?) list
 

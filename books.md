@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started | Finished |
 |------|--------|--------|---------|----------|
+| Pachinko | Min Jin Lee | Kindle | 2020-12-30 | 2021-01-08 |
 | The Man in the High Castle | Philip K. Dick | Kindle | 2020-12-25 | 2020-12-28 |
 | O Mito de Sísifo | Albert Camus | Hardcover | 2020-12-21 | 2020-12-27 |
 | Deep Space Warfare | John C. Wright | Kindle | 2020-12-13 | 2020-12-20 |
@@ -182,9 +183,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
-| Apologia de Sócrates | Platão | Hardcover | 2020-03-09 |
-| Pachinko | Min Jin Lee | Kindle | 2020-12-30 |
+| To Risk Extiction | Victoria Roberts Siczak | Kindle | 2021-01-09 |
 
 # Want/backlog/Frozen (dropped?) list
 
@@ -203,5 +202,6 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | O Demônio Familiar | José de Alencar | Kindle | 2016 |
 | Les Fleurs du Mal | Charles Baudelaire | Kindle |
 | O assassinato do comendador - Vol 2 | Haruki Murakamai | Kindle |
-| To Risk Extiction | Victoria Roberts Siczak | Kindle |
+| 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
+| Apologia de Sócrates | Platão | Hardcover | 2020-03-09 |
 

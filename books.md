@@ -8,8 +8,11 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 # Read
 
-| Name | Author | Format | Started | Finished |
-|------|--------|--------|---------|----------|
+| Name     | Author      | Format | Started    | Finished   |
+|----------|-------------|--------|------------|------------|
+| Artemis | Andy Weir | Kindle | 2021-02-14 | 2021-02-18 |
+| I, Robot | Isaac Asimov | Hardcover | 2021-02-01 | 2021-02-14 |
+| Neuromancer | William Gibson | Kindle | 2021-01-08 | 2021-01-29 |
 | Pachinko | Min Jin Lee | Kindle | 2020-12-30 | 2021-01-08 |
 | The Man in the High Castle | Philip K. Dick | Kindle | 2020-12-25 | 2020-12-28 |
 | O Mito de Sísifo | Albert Camus | Hardcover | 2020-12-21 | 2020-12-27 |
@@ -183,7 +186,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| To Risk Extiction | Victoria Roberts Siczak | Kindle | 2021-01-09 |
+| The Eternal Champion | Michael Moorcock | Kindle | 2021-02-18 |
 
 # Want/backlog/Frozen (dropped?) list
 
@@ -204,4 +207,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | O assassinato do comendador - Vol 2 | Haruki Murakamai | Kindle |
 | 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
 | Apologia de Sócrates | Platão | Hardcover | 2020-03-09 |
+<!-- This one is kinda shit though -->
+| To Risk Extinction | Victoria Roberts Siczak | Kindle | 2021-01-09 |
+| Candide | Voltaire | Kindle | |
 

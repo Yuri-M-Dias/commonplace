@@ -12,7 +12,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 |----------|-------------|--------|------------|------------|
 | Artemis | Andy Weir | Kindle | 2021-02-14 | 2021-02-18 |
 | I, Robot | Isaac Asimov | Hardcover | 2021-02-01 | 2021-02-14 |
-| Neuromancer | William Gibson | Kindle | 2021-01-08 | 2021-01-29 |
+| Neuromancer | William Gibson | Kindle | 2021-01-12 | 2021-01-29 |
 | Pachinko | Min Jin Lee | Kindle | 2020-12-30 | 2021-01-08 |
 | The Man in the High Castle | Philip K. Dick | Kindle | 2020-12-25 | 2020-12-28 |
 | O Mito de Sísifo | Albert Camus | Hardcover | 2020-12-21 | 2020-12-27 |
@@ -208,6 +208,8 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
 | Apologia de Sócrates | Platão | Hardcover | 2020-03-09 |
 <!-- This one is kinda shit though -->
-| To Risk Extinction | Victoria Roberts Siczak | Kindle | 2021-01-09 |
-| Candide | Voltaire | Kindle | |
+| To Risk Extinction   | Victoria Roberts Siczak | Kindle | 2021-01-09 |
+| Candide              | Voltaire                | Kindle |            |
+| Flores Para Algernon | Daniel Keyes            | Kindle |            |
+| Nós                  | Ievguêni Zamiátin       | Kindle |            |
 

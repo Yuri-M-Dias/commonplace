@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name     | Author      | Format | Started    | Finished   |
 |----------|-------------|--------|------------|------------|
+| The Eternal Champion | Michael Moorcock | Kindle | 2021-02-18 | 2021-02-22 |
 | Artemis | Andy Weir | Kindle | 2021-02-14 | 2021-02-18 |
 | I, Robot | Isaac Asimov | Hardcover | 2021-02-01 | 2021-02-14 |
 | Neuromancer | William Gibson | Kindle | 2021-01-12 | 2021-01-29 |
@@ -186,7 +187,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| The Eternal Champion | Michael Moorcock | Kindle | 2021-02-18 |
+| Flores Para Algernon | Daniel Keyes | Kindle | 2021-02-22 |
 
 # Want/backlog/Frozen (dropped?) list
 
@@ -210,6 +211,5 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 <!-- This one is kinda shit though -->
 | To Risk Extinction   | Victoria Roberts Siczak | Kindle | 2021-01-09 |
 | Candide              | Voltaire                | Kindle |            |
-| Flores Para Algernon | Daniel Keyes            | Kindle |            |
 | Nós                  | Ievguêni Zamiátin       | Kindle |            |
 

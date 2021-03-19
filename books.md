@@ -10,6 +10,8 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name     | Author      | Format | Started    | Finished   |
 |----------|-------------|--------|------------|------------|
+| Metamorfose | Franz Kafka | Kindle | 2021-03-15 | 2021-03-19 |
+| Nós | Ievguêni Zamiátin | Kindle | 2021-02-28 | 2021-03-15 |
 | Flores Para Algernon | Daniel Keyes | Kindle | 2021-02-22 | 2021-02-28 |
 | The Eternal Champion | Michael Moorcock | Kindle | 2021-02-18 | 2021-02-22 |
 | Artemis | Andy Weir | Kindle | 2021-02-14 | 2021-02-18 |
@@ -188,7 +190,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| Nós                  | Ievguêni Zamiátin       | Kindle |            | 2021-02-28 |
+| Todos os Homens são Mortais | Simone de Beauvoir | Kindle | 2021-03-19 |
 
 # Want/backlog/Frozen (dropped?) list
 

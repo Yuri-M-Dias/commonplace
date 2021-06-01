@@ -10,6 +10,9 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name     | Author      | Format | Started    | Finished   |
 |----------|-------------|--------|------------|------------|
+| O Fim da Infância | Arthur C. Clarke | Kindle | 2021-05-23 | 2021-05-31 |
+| Nikola Tesla: a Life from Beginning to End | Hourly History | Kindle | 2021-05-17 | 2021-05-20 |
+| Estrela Vermelha | Aleksandr Bogdánov | Kindle | 2021-05-02 | 2021-05-16 |
 | Todos os Homens são Mortais | Simone de Beauvoir | Kindle | 2021-03-19 | 2021-05-02 |
 | Metamorfose | Franz Kafka | Kindle | 2021-03-15 | 2021-03-19 |
 | Nós | Ievguêni Zamiátin | Kindle | 2021-02-28 | 2021-03-15 |
@@ -191,7 +194,6 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| Estrela Vermelha | Aleksandr Bogdánov | Kindle | 2021-05-02 |
 
 # Want/backlog/Frozen (dropped?) list
 

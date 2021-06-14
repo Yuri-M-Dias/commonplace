@@ -1,4 +1,4 @@
-# Book reading lists
+## Book reading lists
 
 This is a catalog of all my read and currently reading books. Why? I don't want to note this on goodreads or third parties.
 
@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name     | Author      | Format | Started    | Finished   |
 |----------|-------------|--------|------------|------------|
+| O Fim da Eternidade | Isaac Asimov | Kindle | 2021-05-31 | 2021-06-14 |
 | O Fim da Infância | Arthur C. Clarke | Kindle | 2021-05-23 | 2021-05-31 |
 | Nikola Tesla: a Life from Beginning to End | Hourly History | Kindle | 2021-05-17 | 2021-05-20 |
 | Estrela Vermelha | Aleksandr Bogdánov | Kindle | 2021-05-02 | 2021-05-16 |
@@ -194,7 +195,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| O Fim da Eternidade | Isaac Asimov | Kindle | 2021-05-31 |
+| Two Truths and a Lie | Sarah Pinsker | Kindle | 2021-06-14 |
 
 # Want/backlog/Frozen (dropped?) list
 
@@ -218,4 +219,6 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 <!-- This one is kinda shit though -->
 | To Risk Extinction   | Victoria Roberts Siczak | Kindle | 2021-01-09 |
 | Candide              | Voltaire                | Kindle |            |
+| Rama: The Omnibus | Arthur C. Clarke | Kindle | |
+| The Physics of Climate Change | Lawrence M. Krauss | Kindle | |
 

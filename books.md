@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name     | Author      | Format | Started    | Finished   |
 |----------|-------------|--------|------------|------------|
+| Two Truths and a Lie | Sarah Pinsker | Kindle | 2021-06-14 | 2021-06-15 |
 | O Fim da Eternidade | Isaac Asimov | Kindle | 2021-05-31 | 2021-06-14 |
 | O Fim da Infância | Arthur C. Clarke | Kindle | 2021-05-23 | 2021-05-31 |
 | Nikola Tesla: a Life from Beginning to End | Hourly History | Kindle | 2021-05-17 | 2021-05-20 |
@@ -195,7 +196,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| Two Truths and a Lie | Sarah Pinsker | Kindle | 2021-06-14 |
+| Rama: The Omnibus | Arthur C. Clarke | Kindle | 2021-06-15 |
 
 # Want/backlog/Frozen (dropped?) list
 
@@ -219,6 +220,5 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 <!-- This one is kinda shit though -->
 | To Risk Extinction   | Victoria Roberts Siczak | Kindle | 2021-01-09 |
 | Candide              | Voltaire                | Kindle |            |
-| Rama: The Omnibus | Arthur C. Clarke | Kindle | |
 | The Physics of Climate Change | Lawrence M. Krauss | Kindle | |
 

@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name     | Author      | Format | Started    | Finished   |
 |----------|-------------|--------|------------|------------|
+| The Physics of Climate Change | Lawrence M. Krauss | Kindle | 2021-06-29 | 2021-07-08 |
 | Two Truths and a Lie | Sarah Pinsker | Kindle | 2021-06-14 | 2021-06-15 |
 | O Fim da Eternidade | Isaac Asimov | Kindle | 2021-05-31 | 2021-06-14 |
 | O Fim da Infância | Arthur C. Clarke | Kindle | 2021-05-23 | 2021-05-31 |
@@ -196,7 +197,8 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name | Author | Format | Started |
 |------|--------|--------|---------|
-| Rama: The Omnibus | Arthur C. Clarke | Kindle | 2021-06-15 |
+| Rama: The Omnibus | Arthur C. Clarke | Kindle | 2021-06-15 | 2021-06-29 |
+| A lua vem da Ásia | Campos de Carvalho | Kindle | 2021-07-08 |
 
 # Want/backlog/Frozen (dropped?) list
 
@@ -220,5 +222,4 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 <!-- This one is kinda shit though -->
 | To Risk Extinction   | Victoria Roberts Siczak | Kindle | 2021-01-09 |
 | Candide              | Voltaire                | Kindle |            |
-| The Physics of Climate Change | Lawrence M. Krauss | Kindle | |
 

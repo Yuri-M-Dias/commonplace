@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name     | Author      | Format | Started    | Finished   |
 |----------|-------------|--------|------------|------------|
+| A Canticle For Leibowitz | Walter M. Miller Jr. | Kindle | 2021-07-30 | 2021-08-27 |
 | The Physics of Climate Change | Lawrence M. Krauss | Kindle | 2021-06-29 | 2021-07-08 |
 | Two Truths and a Lie | Sarah Pinsker | Kindle | 2021-06-14 | 2021-06-15 |
 | O Fim da Eternidade | Isaac Asimov | Kindle | 2021-05-31 | 2021-06-14 |
@@ -199,6 +200,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 |------|--------|--------|---------|
 | Rama: The Omnibus | Arthur C. Clarke | Kindle | 2021-06-15 | 2021-06-29 |
 | A lua vem da Ásia | Campos de Carvalho | Kindle | 2021-07-08 |
+| O assassinato do comendador - Vol 2 | Haruki Murakamai | Kindle | 2021-08-27 |
 
 # Want/backlog/Frozen (dropped?) list
 
@@ -216,10 +218,11 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | Beyond Good and Evil | Friedrich Nietzsche | Kindle | 2016 |
 | O Demônio Familiar | José de Alencar | Kindle | 2016 |
 | Les Fleurs du Mal | Charles Baudelaire | Kindle |
-| O assassinato do comendador - Vol 2 | Haruki Murakamai | Kindle |
 | 日本絵とき事典 | Japan Travel Bureau, Inc. | Hardcover | 2019-12-25 |
 | Apologia de Sócrates | Platão | Hardcover | 2020-03-09 |
 <!-- This one is kinda shit though -->
 | To Risk Extinction   | Victoria Roberts Siczak | Kindle | 2021-01-09 |
 | Candide              | Voltaire                | Kindle |            |
+| Leviathan Wakes | James S. A. Corey | Kindle |
+| Dune | Frank Herbert | Kindle |
 

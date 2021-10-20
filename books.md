@@ -1,4 +1,4 @@
-## Book reading lists
+#### Book reading lists
 
 This is a catalog of all my read and currently reading books. Why? I don't want to note this on goodreads or third parties.
 
@@ -10,6 +10,8 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name     | Author      | Format | Started    | Finished   |
 |----------|-------------|--------|------------|------------|
+| Dune | Frank Herbert | Kindle | 2021-09-19 | 2021-10-04 |
+| O assassinato do comendador - Vol 2 | Haruki Murakamai | Kindle | 2021-08-27 | 2021-09-18 |
 | A Canticle For Leibowitz | Walter M. Miller Jr. | Kindle | 2021-07-30 | 2021-08-27 |
 | The Physics of Climate Change | Lawrence M. Krauss | Kindle | 2021-06-29 | 2021-07-08 |
 | Two Truths and a Lie | Sarah Pinsker | Kindle | 2021-06-14 | 2021-06-15 |
@@ -200,7 +202,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 |------|--------|--------|---------|
 | Rama: The Omnibus | Arthur C. Clarke | Kindle | 2021-06-15 | 2021-06-29 |
 | A lua vem da Ásia | Campos de Carvalho | Kindle | 2021-07-08 |
-| O assassinato do comendador - Vol 2 | Haruki Murakamai | Kindle | 2021-08-27 |
+| Solaris | Stanislaw Lem | Kindle | 2021-10-05 |
 
 # Want/backlog/Frozen (dropped?) list
 
@@ -224,5 +226,6 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 | To Risk Extinction   | Victoria Roberts Siczak | Kindle | 2021-01-09 |
 | Candide              | Voltaire                | Kindle |            |
 | Leviathan Wakes | James S. A. Corey | Kindle |
-| Dune | Frank Herbert | Kindle |
+| The Left Hand of Darkness | Ursula K. Le Guin | Hardcover |
+| Cartas a um jovem cientista | Edward O. Wilson | Hardcover |
 

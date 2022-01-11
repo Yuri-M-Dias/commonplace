@@ -10,6 +10,7 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 
 | Name     | Author      | Format | Started    | Finished   |
 |----------|-------------|--------|------------|------------|
+| Leviathan Wakes | James S. A. Corey | Kindle | 2021-12-22 | 2022-01-06 |
 | Cartas a um jovem cientista | Edward O. Wilson | Hardcover | 2021-12-13 | 2021-12-20 |
 | Frankenstein | Junji Ito | Hardcover | 2021-12-14 | 2021-12-17 |
 | Maus | Art Spielgman | Hardcover | 2021-12-09 | 2021-12-11 |
@@ -207,8 +208,8 @@ Newest ones at the top. Currently reading also counts the unfinished ones.
 |------|--------|--------|---------|
 | Rama: The Omnibus | Arthur C. Clarke | Kindle | 2021-06-15 | 2021-06-29 |
 | A lua vem da Ásia | Campos de Carvalho | Kindle | 2021-07-08 |
-| Leviathan Wakes | James S. A. Corey | Kindle | 2021-12-22 |
 | Vigiar e Punir | Michael Foucault | Hardcover | 2021-12-20 |
+| Dune Messiah | Frank Herbert | Kindle | 2022-01-09 |
 
 # Want/backlog/Frozen (dropped?) list
 
